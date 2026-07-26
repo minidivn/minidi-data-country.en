@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Anglo-Welsh philologist and scholar of ancient India (1746–1794)"
+      "markdown": "Sir William Jones (28 September 1746 – 27 April 1794) was a British philologist, scholar and judge. Born in Westminster to the Welsh mathematician William Jones, he moved to the Bengal Presidency where Jones served as a puisne judge on the Supreme Court of Judicature at Fort William and also became a scholar of ancient Indian history. He is known for being one of the earliest scholars after father Gaston-Laurent Coeurdoux to assert the kinship of the Indo-European languages. Jones also founded the Asiatic Society in Calcutta in 1784.\n\n"
     },
     "descriptions": {
       "en": "Anglo-Welsh philologist and scholar of ancient India (1746–1794)"
@@ -38,7 +38,8 @@
     "properties": {
       "birth_date": "1746-09-28T00:00:00Z",
       "death_date": "1794-04-27T00:00:00Z",
-      "occupation": "politician"
+      "occupation": "politician",
+      "summary": "Sir William Jones (28 September 1746 – 27 April 1794) was a British philologist, scholar and judge. Born in Westminster to the Welsh mathematician William Jones, he moved to the Bengal Presidency where Jones served as a puisne judge on the Supreme Court of Judicature at Fort William and also became a scholar of ancient Indian history. He is known for being one of the earliest scholars after father Gaston-Laurent Coeurdoux to assert the kinship of the Indo-European languages. Jones also founded the Asiatic Society in Calcutta in 1784.\n\n"
     },
     "type": "person"
   }

@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "king of the Anglo-Saxons (r. 899–924)"
+      "markdown": "Edward the Elder (870s? – 17 July 924) was King of the Anglo-Saxons from 899 until his death in 924. He was the elder son of Alfred the Great and his wife Ealhswith. When Edward succeeded to the throne, he had to defeat a challenge from his cousin Æthelwold, who had a strong claim to the throne as the son of Alfred's elder brother and predecessor, Æthelred I. Alfred had succeeded Æthelred as king of Wessex in 871, and almost faced defeat against the Danish Vikings until his decisive victory at the Battle of Edington in 878. After the battle, the Vikings still ruled Northumbria, East Anglia and eastern Mercia, leaving only Wessex and western Mercia under Anglo-Saxon control."
     },
     "descriptions": {
       "en": "king of the Anglo-Saxons (r. 899–924)"
@@ -38,7 +38,8 @@
     "properties": {
       "birth_date": "0874-06-01T00:00:00Z",
       "death_date": "0924-07-22T00:00:00Z",
-      "occupation": "sovereign"
+      "occupation": "sovereign",
+      "summary": "Edward the Elder (870s? – 17 July 924) was King of the Anglo-Saxons from 899 until his death in 924. He was the elder son of Alfred the Great and his wife Ealhswith. When Edward succeeded to the throne, he had to defeat a challenge from his cousin Æthelwold, who had a strong claim to the throne as the son of Alfred's elder brother and predecessor, Æthelred I. Alfred had succeeded Æthelred as king of Wessex in 871, and almost faced defeat against the Danish Vikings until his decisive victory at the Battle of Edington in 878. After the battle, the Vikings still ruled Northumbria, East Anglia and eastern Mercia, leaving only Wessex and western Mercia under Anglo-Saxon control."
     },
     "type": "person"
   }

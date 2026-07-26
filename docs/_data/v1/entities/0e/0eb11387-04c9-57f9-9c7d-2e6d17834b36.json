@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "English royal"
+      "markdown": "Margery Wentworth, also known as Margaret Wentworth, and as both Lady Seymour and Dame Margery Seymour (c. 1478 – 18 October 1550), was the wife of Sir John Seymour and the mother of Queen Jane Seymour, the third wife of King Henry VIII of England. She was the maternal grandmother of King Edward VI of England."
     },
     "descriptions": {
       "en": "English royal"
@@ -37,7 +37,8 @@
     },
     "properties": {
       "birth_date": "1478-01-01T00:00:00Z",
-      "death_date": "1550-01-01T00:00:00Z"
+      "death_date": "1550-01-01T00:00:00Z",
+      "summary": "Margery Wentworth, also known as Margaret Wentworth, and as both Lady Seymour and Dame Margery Seymour (c. 1478 – 18 October 1550), was the wife of Sir John Seymour and the mother of Queen Jane Seymour, the third wife of King Henry VIII of England. She was the maternal grandmother of King Edward VI of England."
     },
     "type": "person"
   }

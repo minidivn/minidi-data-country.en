@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "English theologian, philosopher, architect, and poet; (1648-1710)"
+      "markdown": "Henry Aldrich (15 January 1648 – 14 December 1710) was an English scholar, clergyman, architect, and composer."
     },
     "descriptions": {
       "en": "English theologian, philosopher, architect, and poet; (1648-1710)"
@@ -38,7 +38,8 @@
     "properties": {
       "birth_date": "1648-01-15T00:00:00Z",
       "death_date": "1710-12-14T00:00:00Z",
-      "occupation": "theologian"
+      "occupation": "theologian",
+      "summary": "Henry Aldrich (15 January 1648 – 14 December 1710) was an English scholar, clergyman, architect, and composer."
     },
     "type": "person"
   }

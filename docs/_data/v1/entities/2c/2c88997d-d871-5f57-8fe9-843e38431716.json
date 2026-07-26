@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "English countess (c.1567-1633)"
+      "markdown": "Frances Burke, Countess of Clanricarde (née Walsingham, formerly Devereux and Sidney; 1567 – 17 February 1633) was an English noblewoman. The daughter of Sir Francis Walsingham, Elizabeth I's Secretary of State, she became the wife of Sir Philip Sidney at age 16. Her second husband was Queen Elizabeth's favourite, Robert Devereaux, Earl of Essex, with whom she had five children. Two years after his execution in 1601, she married Richard Burke, Earl of Clanricarde, and went to live with him in Ireland."
     },
     "descriptions": {
       "en": "English countess (c.1567-1633)"
@@ -37,8 +37,9 @@
     },
     "properties": {
       "birth_date": "1567-01-01T00:00:00Z",
-      "death_date": "1632-01-01T00:00:00Z",
-      "occupation": "lady-in-waiting"
+      "death_date": "1631-02-13T00:00:00Z",
+      "occupation": "lady-in-waiting",
+      "summary": "Frances Burke, Countess of Clanricarde (née Walsingham, formerly Devereux and Sidney; 1567 – 17 February 1633) was an English noblewoman. The daughter of Sir Francis Walsingham, Elizabeth I's Secretary of State, she became the wife of Sir Philip Sidney at age 16. Her second husband was Queen Elizabeth's favourite, Robert Devereaux, Earl of Essex, with whom she had five children. Two years after his execution in 1601, she married Richard Burke, Earl of Clanricarde, and went to live with him in Ireland."
     },
     "type": "person"
   }

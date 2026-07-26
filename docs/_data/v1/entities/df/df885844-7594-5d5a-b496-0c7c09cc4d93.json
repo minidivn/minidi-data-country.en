@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "English theologian"
+      "markdown": "Lawrence Humphrey (or Laurence Humfrey) DD (1525/7? – 1 February 1589) was an English theologian, who was President of Magdalen College, Oxford, and Dean successively of Gloucester and Winchester."
     },
     "descriptions": {
       "en": "English theologian"
@@ -38,7 +38,8 @@
     "properties": {
       "birth_date": "1527-01-01T00:00:00Z",
       "death_date": "1589-02-01T00:00:00Z",
-      "occupation": "university teacher"
+      "occupation": "university teacher",
+      "summary": "Lawrence Humphrey (or Laurence Humfrey) DD (1525/7? – 1 February 1589) was an English theologian, who was President of Magdalen College, Oxford, and Dean successively of Gloucester and Winchester."
     },
     "type": "person"
   }

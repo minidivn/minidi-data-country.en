@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "English Baptist theologian and author (1603–1683)"
+      "markdown": "Roger Williams (c. 1603 – March 1683) was an English-born New England minister, theologian, author, and founder of the Providence Plantations, which became the Colony of Rhode Island and Providence Plantations and later the State of Rhode Island. He was a staunch advocate for religious liberty, separation of church and state, and fair dealings with the Native Americans. Initially a Puritan minister, his beliefs evolved and he questioned the authority of the Puritan church in enforcing religious conformity. He was expelled by the Puritan leaders from the Massachusetts Bay Colony, and he established Providence Plantations in 1636 as a refuge offering what he termed \"liberty of conscience\" making Rhode Island the first government in the Western world to guarantee religious freedom in its founding charter. His ideas on religious tolerance and civil government directly influenced the principles later enshrined in the First Amendment of the U.S. Constitution."
     },
     "descriptions": {
       "en": "English Baptist theologian and author (1603–1683)"
@@ -38,7 +38,8 @@
     "properties": {
       "birth_date": "1603-12-21T00:00:00Z",
       "death_date": "1683-04-01T00:00:00Z",
-      "occupation": "debater"
+      "occupation": "debater",
+      "summary": "Roger Williams (c. 1603 – March 1683) was an English-born New England minister, theologian, author, and founder of the Providence Plantations, which became the Colony of Rhode Island and Providence Plantations and later the State of Rhode Island. He was a staunch advocate for religious liberty, separation of church and state, and fair dealings with the Native Americans. Initially a Puritan minister, his beliefs evolved and he questioned the authority of the Puritan church in enforcing religious conformity. He was expelled by the Puritan leaders from the Massachusetts Bay Colony, and he established Providence Plantations in 1636 as a refuge offering what he termed \"liberty of conscience\" making Rhode Island the first government in the Western world to guarantee religious freedom in its founding charter. His ideas on religious tolerance and civil government directly influenced the principles later enshrined in the First Amendment of the U.S. Constitution."
     },
     "type": "person"
   }

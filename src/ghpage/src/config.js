@@ -8,7 +8,7 @@ export default {
   ],
   "defaultLanguage": "en",
   "title": "England Knowledge Graph",
-  "subtitle": "Exploring 12,406 WikiData entities: history, geography, people & culture",
+  "subtitle": "Exploring 12,409 WikiData entities: history, geography, people & culture",
   "splashTitle": "🇺🇸 MiniDi",
   "splashMessage": "Loading England knowledge graph...",
   "mapCenter": [

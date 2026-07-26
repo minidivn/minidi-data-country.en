@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "English conspirator"
+      "markdown": "Francis Tresham (c. 1567 – 23 December 1605) was a member of the group of English provincial Catholics who planned the failed Gunpowder Plot of 1605, a conspiracy to assassinate King James I of England. Tresham joined the Earl of Essex's failed rebellion against the government in 1601, for which he was imprisoned. Only his family's intervention and his father's money saved him from attainder. Despite this, he became involved in two missions to Catholic Spain to seek support for English Catholics (then heavily persecuted), and finally with the Gunpowder Plotters. According to his confession, Tresham joined the plot in October 1605. Its leader, Robert Catesby, asked him to provide a large sum of money and the use of Rushton Hall, but Tresham apparently provided neither, instead giving a much smaller amount of money to fellow plotter Thomas Wintour."
     },
     "descriptions": {
       "en": "English conspirator"
@@ -37,7 +37,8 @@
     },
     "properties": {
       "birth_date": "1568-01-01T00:00:00Z",
-      "death_date": "1605-12-23T00:00:00Z"
+      "death_date": "1605-12-23T00:00:00Z",
+      "summary": "Francis Tresham (c. 1567 – 23 December 1605) was a member of the group of English provincial Catholics who planned the failed Gunpowder Plot of 1605, a conspiracy to assassinate King James I of England. Tresham joined the Earl of Essex's failed rebellion against the government in 1601, for which he was imprisoned. Only his family's intervention and his father's money saved him from attainder. Despite this, he became involved in two missions to Catholic Spain to seek support for English Catholics (then heavily persecuted), and finally with the Gunpowder Plotters. According to his confession, Tresham joined the plot in October 1605. Its leader, Robert Catesby, asked him to provide a large sum of money and the use of Rushton Hall, but Tresham apparently provided neither, instead giving a much smaller amount of money to fellow plotter Thomas Wintour."
     },
     "type": "person"
   }

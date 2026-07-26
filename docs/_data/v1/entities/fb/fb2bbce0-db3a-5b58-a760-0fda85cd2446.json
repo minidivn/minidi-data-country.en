@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "English composer"
+      "markdown": "John Blow (baptised 23 February 1649 – 1 October 1708) was an English composer and organist of the Baroque period. Appointed organist of Westminster Abbey in late 1668, his pupils included William Croft, Jeremiah Clarke and Henry Purcell. In 1685 he was named a private musician to James II. His only stage composition, Venus and Adonis (ca. 1680–1687), is thought to have influenced Henry Purcell's later opera Dido and Aeneas. In 1687, he became choirmaster at St Paul's Cathedral, where many of his pieces were performed. In 1699 he was appointed to the newly created post of Composer to the Chapel Royal."
     },
     "descriptions": {
       "en": "English composer"
@@ -38,7 +38,8 @@
     "properties": {
       "birth_date": "1649-01-01T00:00:00Z",
       "death_date": "1708-10-01T00:00:00Z",
-      "occupation": "composer"
+      "occupation": "composer",
+      "summary": "John Blow (baptised 23 February 1649 – 1 October 1708) was an English composer and organist of the Baroque period. Appointed organist of Westminster Abbey in late 1668, his pupils included William Croft, Jeremiah Clarke and Henry Purcell. In 1685 he was named a private musician to James II. His only stage composition, Venus and Adonis (ca. 1680–1687), is thought to have influenced Henry Purcell's later opera Dido and Aeneas. In 1687, he became choirmaster at St Paul's Cathedral, where many of his pieces were performed. In 1699 he was appointed to the newly created post of Composer to the Chapel Royal."
     },
     "type": "person"
   }

@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "English monk and historian"
+      "markdown": "Richard of Hexham (fl. 1141) was an English chronicler. He became prior of Hexham about 1141, and died between 1155 and 1167. He wrote Brevis Annotatio, a short history of the church of Hexham from 674 to 1138, for which he borrowed from Bede, Eddius and Symeon of Durham. This is published by James Raine in The Priory of Hexham, its Chroniclers, Endowments and Annals (Durham, 1864 to 1865). More important is his Historia de gestis regis Stephani ci de bello Standardii, very valuable for the history of the north of England during the earlier part of the reign of Stephen, and especially for the Battle of the Standard in 1138. This history, which is a contemporary one, covers the period from the death of Henry I in 1135 to early in 1139."
     },
     "descriptions": {
       "en": "English monk and historian"
@@ -37,7 +37,8 @@
     },
     "properties": {
       "death_date": "1155-01-01T00:00:00Z",
-      "occupation": "canon"
+      "occupation": "canon",
+      "summary": "Richard of Hexham (fl. 1141) was an English chronicler. He became prior of Hexham about 1141, and died between 1155 and 1167. He wrote Brevis Annotatio, a short history of the church of Hexham from 674 to 1138, for which he borrowed from Bede, Eddius and Symeon of Durham. This is published by James Raine in The Priory of Hexham, its Chroniclers, Endowments and Annals (Durham, 1864 to 1865). More important is his Historia de gestis regis Stephani ci de bello Standardii, very valuable for the history of the north of England during the earlier part of the reign of Stephen, and especially for the Battle of the Standard in 1138. This history, which is a contemporary one, covers the period from the death of Henry I in 1135 to early in 1139."
     },
     "type": "person"
   }

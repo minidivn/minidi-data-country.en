@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "English clergyman, geologist and palaeontologist (1784-1856)"
+      "markdown": "William Buckland DD, FRS (12 March 1784 – 14 August 1856) was an English theologian, geologist and palaeontologist. His work in the early 1820s proved that Kirkdale Cave in North Yorkshire had been a prehistoric hyena den, for which he was awarded the Copley Medal. It was praised as an example of how scientific analysis could reconstruct events in the distant past. He pioneered the use of fossilised faeces in reconstructing ecosystems, coining the term coprolites. Buckland also wrote the first full account of a fossil dinosaur, which he named Megalosaurus in 1824. He also discovered the so-called Red Lady of Paviland, one of the first discovered human skeletons now recognised as coming from the Upper Palaeolithic. Buckland followed the Gap Theory in interpreting the biblical account of Genesis as two widely separated episodes of creation."
     },
     "descriptions": {
       "en": "English clergyman, geologist and palaeontologist (1784-1856)"
@@ -38,7 +38,8 @@
     "properties": {
       "birth_date": "1784-03-12T00:00:00Z",
       "death_date": "1856-08-14T00:00:00Z",
-      "occupation": "pastor"
+      "occupation": "pastor",
+      "summary": "William Buckland DD, FRS (12 March 1784 – 14 August 1856) was an English theologian, geologist and palaeontologist. His work in the early 1820s proved that Kirkdale Cave in North Yorkshire had been a prehistoric hyena den, for which he was awarded the Copley Medal. It was praised as an example of how scientific analysis could reconstruct events in the distant past. He pioneered the use of fossilised faeces in reconstructing ecosystems, coining the term coprolites. Buckland also wrote the first full account of a fossil dinosaur, which he named Megalosaurus in 1824. He also discovered the so-called Red Lady of Paviland, one of the first discovered human skeletons now recognised as coming from the Upper Palaeolithic. Buckland followed the Gap Theory in interpreting the biblical account of Genesis as two widely separated episodes of creation."
     },
     "type": "person"
   }

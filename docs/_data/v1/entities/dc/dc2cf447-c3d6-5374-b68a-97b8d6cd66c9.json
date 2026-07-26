@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T20:27:06.700716+00:00",
+    "created_at": "2026-07-26T21:25:13.349132500+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T20:27:06.700716+00:00",
+    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "British noble"
+      "markdown": "Maud of Lancaster (4 April 1340 – 10 April 1362), also known as Matilda, Countess of Leicester, was a 14th-century English noblewoman who married into the Bavarian ducal family.\nThe eldest daughter of Henry of Grosmont, 1st Duke of Lancaster and Earl of Leicester, and his wife Isabel de Beaumont, she was born at Bolingbroke Castle in Lindsey."
     },
     "descriptions": {
       "en": "British noble"
@@ -37,7 +37,8 @@
     },
     "properties": {
       "birth_date": "1339-04-12T00:00:00Z",
-      "death_date": "1362-04-18T00:00:00Z"
+      "death_date": "1362-04-18T00:00:00Z",
+      "summary": "Maud of Lancaster (4 April 1340 – 10 April 1362), also known as Matilda, Countess of Leicester, was a 14th-century English noblewoman who married into the Bavarian ducal family.\nThe eldest daughter of Henry of Grosmont, 1st Duke of Lancaster and Earl of Leicester, and his wife Isabel de Beaumont, she was born at Bolingbroke Castle in Lindsey."
     },
     "type": "person"
   }
