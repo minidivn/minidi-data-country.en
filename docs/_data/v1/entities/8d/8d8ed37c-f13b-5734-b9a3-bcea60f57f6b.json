@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16728646",
+      "title": "WikiData Q-item: Q16728646",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16728646"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "British singer and songwriter"
+    },
+    "descriptions": {
+      "en": "British singer and songwriter"
+    },
+    "domain": "general",
+    "id": "Q16728646",
+    "labels": {
+      "en": "Julia Downes"
+    },
+    "properties": {
+      "occupation": "singer"
+    },
+    "type": "person"
+  }
+}

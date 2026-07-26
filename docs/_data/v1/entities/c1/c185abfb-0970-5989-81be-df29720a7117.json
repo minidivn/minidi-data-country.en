@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q361204",
+      "title": "WikiData Q-item: Q361204",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q361204"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "father of Henry VII of England"
+    },
+    "descriptions": {
+      "en": "father of Henry VII of England"
+    },
+    "domain": "general",
+    "id": "Q361204",
+    "labels": {
+      "en": "Edmund Tudor, 1st Earl of Richmond"
+    },
+    "properties": {
+      "birth_date": "1430-01-01T00:00:00Z",
+      "death_date": "1456-11-12T00:00:00Z",
+      "occupation": "aristocrat"
+    },
+    "type": "person"
+  }
+}

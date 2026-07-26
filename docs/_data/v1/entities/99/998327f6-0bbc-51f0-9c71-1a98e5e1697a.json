@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q934384",
+      "title": "WikiData Q-item: Q934384",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q934384"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English peer"
+    },
+    "descriptions": {
+      "en": "English peer"
+    },
+    "domain": "general",
+    "id": "Q934384",
+    "labels": {
+      "en": "Richard Woodville, 1st Earl Rivers"
+    },
+    "properties": {
+      "birth_date": "1405-01-01T00:00:00Z",
+      "death_date": "1469-08-21T00:00:00Z",
+      "occupation": "politician"
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1435156",
+      "title": "WikiData Q-item: Q1435156",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1435156"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1703 Anglo-Portuguese treaty"
+    },
+    "descriptions": {
+      "en": "1703 Anglo-Portuguese treaty"
+    },
+    "domain": "general",
+    "id": "Q1435156",
+    "labels": {
+      "en": "Methuen Treaty"
+    },
+    "properties": {
+      "point_in_time": "1703-12-27T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

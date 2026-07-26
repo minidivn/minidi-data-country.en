@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3893676",
+      "title": "WikiData Q-item: Q3893676",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3893676"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Anglo-Irish artist (c.1710-1762)"
+    },
+    "descriptions": {
+      "en": "Anglo-Irish artist (c.1710-1762)"
+    },
+    "domain": "general",
+    "id": "Q3893676",
+    "labels": {
+      "en": "Thomas Frye"
+    },
+    "properties": {
+      "birth_date": "1710-01-01T00:00:00Z",
+      "death_date": "1762-04-02T00:00:00Z",
+      "occupation": "painter"
+    },
+    "type": "person"
+  }
+}

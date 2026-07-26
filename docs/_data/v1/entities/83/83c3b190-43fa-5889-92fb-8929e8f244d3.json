@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3568497",
+      "title": "WikiData Q-item: Q3568497",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3568497"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English engineer"
+    },
+    "descriptions": {
+      "en": "English engineer"
+    },
+    "domain": "general",
+    "id": "Q3568497",
+    "labels": {
+      "en": "William Chapman"
+    },
+    "properties": {
+      "birth_date": "1749-03-07T00:00:00Z",
+      "death_date": "1832-05-29T00:00:00Z",
+      "occupation": "civil engineer"
+    },
+    "type": "person"
+  }
+}

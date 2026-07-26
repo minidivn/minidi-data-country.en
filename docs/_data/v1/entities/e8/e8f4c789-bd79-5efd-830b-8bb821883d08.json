@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5363725",
+      "title": "WikiData Q-item: Q5363725",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5363725"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English architect"
+    },
+    "descriptions": {
+      "en": "English architect"
+    },
+    "domain": "general",
+    "id": "Q5363725",
+    "labels": {
+      "en": "Elizabeth Wilbraham"
+    },
+    "properties": {
+      "birth_date": "1632-02-14T00:00:00Z",
+      "death_date": "1705-07-27T00:00:00Z",
+      "occupation": "architect"
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q8020622",
+      "title": "WikiData Q-item: Q8020622",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q8020622"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English architect"
+    },
+    "descriptions": {
+      "en": "English architect"
+    },
+    "domain": "general",
+    "id": "Q8020622",
+    "labels": {
+      "en": "William Wynford"
+    },
+    "properties": {
+      "death_date": "1405-01-01T00:00:00Z",
+      "occupation": "architect"
+    },
+    "type": "person"
+  }
+}

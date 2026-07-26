@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q24232990",
+      "title": "WikiData Q-item: Q24232990",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q24232990"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "lithographer and printer; 19th century"
+    },
+    "descriptions": {
+      "en": "lithographer and printer; 19th century"
+    },
+    "domain": "general",
+    "id": "Q24232990",
+    "labels": {
+      "en": "C. J. Greenwood"
+    },
+    "properties": {
+      "birth_date": "http://www.wikidata.org/.well-known/genid/605102ff619265c3b5d6ef87aa2401e5",
+      "death_date": "http://www.wikidata.org/.well-known/genid/5a399b7017f9c493c9c37ab38e9f901b",
+      "occupation": "lithographer"
+    },
+    "type": "person"
+  }
+}

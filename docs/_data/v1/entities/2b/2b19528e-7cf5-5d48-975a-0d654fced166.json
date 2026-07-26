@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q29956086",
+      "title": "WikiData Q-item: Q29956086",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q29956086"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "video game writer"
+    },
+    "descriptions": {
+      "en": "video game writer"
+    },
+    "domain": "general",
+    "id": "Q29956086",
+    "labels": {
+      "en": "Richard Cobbett"
+    },
+    "properties": {
+      "occupation": "video game critic"
+    },
+    "type": "person"
+  }
+}

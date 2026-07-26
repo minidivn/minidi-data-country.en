@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q27187388",
+      "title": "WikiData Q-item: Q27187388",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q27187388"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "association football player"
+    },
+    "descriptions": {
+      "en": "association football player"
+    },
+    "domain": "general",
+    "id": "Q27187388",
+    "labels": {
+      "en": "Sylvester Vernon"
+    },
+    "properties": {
+      "occupation": "association football player"
+    },
+    "type": "person"
+  }
+}

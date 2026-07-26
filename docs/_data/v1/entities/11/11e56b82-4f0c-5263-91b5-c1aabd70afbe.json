@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7526946",
+      "title": "WikiData Q-item: Q7526946",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7526946"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English clergyman and writer"
+    },
+    "descriptions": {
+      "en": "English clergyman and writer"
+    },
+    "domain": "general",
+    "id": "Q7526946",
+    "labels": {
+      "en": "Sir George Wheler"
+    },
+    "properties": {
+      "birth_date": "1651-01-20T00:00:00Z",
+      "death_date": "1724-01-15T00:00:00Z",
+      "occupation": "botanist"
+    },
+    "type": "person"
+  }
+}

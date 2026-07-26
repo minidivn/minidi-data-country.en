@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16859631",
+      "title": "WikiData Q-item: Q16859631",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16859631"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American lawyer and planter (1715-1773)"
+    },
+    "descriptions": {
+      "en": "American lawyer and planter (1715-1773)"
+    },
+    "domain": "general",
+    "id": "Q16859631",
+    "labels": {
+      "en": "John Wayles"
+    },
+    "properties": {
+      "birth_date": "1715-01-31T00:00:00Z",
+      "death_date": "1773-05-28T00:00:00Z",
+      "occupation": "plantation owner"
+    },
+    "type": "person"
+  }
+}

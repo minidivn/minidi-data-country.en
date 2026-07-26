@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2057615",
+      "title": "WikiData Q-item: Q2057615",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2057615"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English theologian, philosopher, architect, and poet; (1648-1710)"
+    },
+    "descriptions": {
+      "en": "English theologian, philosopher, architect, and poet; (1648-1710)"
+    },
+    "domain": "general",
+    "id": "Q2057615",
+    "labels": {
+      "en": "Henry Aldrich"
+    },
+    "properties": {
+      "birth_date": "1648-01-15T00:00:00Z",
+      "death_date": "1710-12-14T00:00:00Z",
+      "occupation": "theologian"
+    },
+    "type": "person"
+  }
+}

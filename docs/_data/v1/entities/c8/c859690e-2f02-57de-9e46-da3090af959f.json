@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16859645",
+      "title": "WikiData Q-item: Q16859645",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16859645"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English architect, surveyor and building contractor (1705–1771)"
+    },
+    "descriptions": {
+      "en": "English architect, surveyor and building contractor (1705–1771)"
+    },
+    "domain": "general",
+    "id": "Q16859645",
+    "labels": {
+      "en": "William Baker"
+    },
+    "properties": {
+      "birth_date": "1705-01-01T00:00:00Z",
+      "death_date": "1771-11-29T00:00:00Z",
+      "occupation": "surveyor"
+    },
+    "type": "person"
+  }
+}

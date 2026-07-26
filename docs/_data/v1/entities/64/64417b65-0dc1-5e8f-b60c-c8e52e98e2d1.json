@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2252397",
+      "title": "WikiData Q-item: Q2252397",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2252397"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "clergyman and author"
+    },
+    "descriptions": {
+      "en": "clergyman and author"
+    },
+    "domain": "general",
+    "id": "Q2252397",
+    "labels": {
+      "en": "James Woodforde"
+    },
+    "properties": {
+      "birth_date": "1740-01-01T00:00:00Z",
+      "death_date": "1803-01-01T00:00:00Z",
+      "occupation": "Anglican priest"
+    },
+    "type": "person"
+  }
+}

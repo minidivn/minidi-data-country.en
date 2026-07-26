@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1034134",
+      "title": "WikiData Q-item: Q1034134",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1034134"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "association football referee"
+    },
+    "descriptions": {
+      "en": "association football referee"
+    },
+    "domain": "general",
+    "id": "Q1034134",
+    "labels": {
+      "en": "Harry Perry"
+    },
+    "properties": {
+      "occupation": "association football referee"
+    },
+    "type": "person"
+  }
+}

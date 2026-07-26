@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3775720",
+      "title": "WikiData Q-item: Q3775720",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3775720"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English poet (1590–1645)"
+    },
+    "descriptions": {
+      "en": "English poet (1590–1645)"
+    },
+    "domain": "general",
+    "id": "Q3775720",
+    "labels": {
+      "en": "William Browne"
+    },
+    "properties": {
+      "birth_date": "1590-01-01T00:00:00Z",
+      "death_date": "1645-01-01T00:00:00Z",
+      "occupation": "writer"
+    },
+    "type": "person"
+  }
+}

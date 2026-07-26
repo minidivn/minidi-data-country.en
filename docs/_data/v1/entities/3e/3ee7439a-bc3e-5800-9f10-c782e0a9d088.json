@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q47189723",
+      "title": "WikiData Q-item: Q47189723",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q47189723"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "New Zealand mathematical modeller"
+    },
+    "descriptions": {
+      "en": "New Zealand mathematical modeller"
+    },
+    "domain": "general",
+    "id": "Q47189723",
+    "labels": {
+      "en": "Michael Plank"
+    },
+    "properties": {
+      "occupation": "mathematical modeller"
+    },
+    "type": "person"
+  }
+}

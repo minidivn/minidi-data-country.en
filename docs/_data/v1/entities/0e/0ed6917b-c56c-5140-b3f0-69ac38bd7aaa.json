@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6793454",
+      "title": "WikiData Q-item: Q6793454",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6793454"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Knight of the Shire for Gloucestershire in 1402 and 1404, and four times High Sheriff of Gloucestershire"
+    },
+    "descriptions": {
+      "en": "Knight of the Shire for Gloucestershire in 1402 and 1404, and four times High Sheriff of Gloucestershire"
+    },
+    "domain": "general",
+    "id": "Q6793454",
+    "labels": {
+      "en": "Maurice Russell, knight"
+    },
+    "properties": {
+      "birth_date": "1356-02-18T00:00:00Z",
+      "death_date": "1416-07-15T00:00:00Z",
+      "occupation": "politician"
+    },
+    "type": "person"
+  }
+}

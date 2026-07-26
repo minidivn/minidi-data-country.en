@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q65032259",
+      "title": "WikiData Q-item: Q65032259",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q65032259"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English cartographer and publisher (d. 1715)"
+    },
+    "descriptions": {
+      "en": "English cartographer and publisher (d. 1715)"
+    },
+    "domain": "general",
+    "id": "Q65032259",
+    "labels": {
+      "en": "Samuel Thornton"
+    },
+    "properties": {
+      "birth_date": "1700-01-01T00:00:00Z",
+      "death_date": "1715-01-01T00:00:00Z",
+      "occupation": "cartographer"
+    },
+    "type": "person"
+  }
+}

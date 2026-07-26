@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3809031",
+      "title": "WikiData Q-item: Q3809031",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3809031"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English organist, died 1791"
+    },
+    "descriptions": {
+      "en": "English organist, died 1791"
+    },
+    "domain": "general",
+    "id": "Q3809031",
+    "labels": {
+      "en": "John Alcock"
+    },
+    "properties": {
+      "birth_date": "1740-01-01T00:00:00Z",
+      "death_date": "1791-01-01T00:00:00Z",
+      "occupation": "organist"
+    },
+    "type": "person"
+  }
+}

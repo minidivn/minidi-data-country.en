@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q18670999",
+      "title": "WikiData Q-item: Q18670999",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18670999"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Hill [née Dietz; other married name Harriott], Diana (d. 1844), miniature painter (1760–1844)"
+    },
+    "descriptions": {
+      "en": "Hill [née Dietz; other married name Harriott], Diana (d. 1844), miniature painter (1760–1844)"
+    },
+    "domain": "general",
+    "id": "Q18670999",
+    "labels": {
+      "en": "Diana Hill"
+    },
+    "properties": {
+      "birth_date": "1760-01-01T00:00:00Z",
+      "death_date": "1844-02-10T00:00:00Z",
+      "occupation": "painter"
+    },
+    "type": "person"
+  }
+}

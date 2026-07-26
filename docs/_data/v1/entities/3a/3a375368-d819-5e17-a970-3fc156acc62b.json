@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q56665623",
+      "title": "WikiData Q-item: Q56665623",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q56665623"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "barrister and judge"
+    },
+    "descriptions": {
+      "en": "barrister and judge"
+    },
+    "domain": "general",
+    "id": "Q56665623",
+    "labels": {
+      "en": "Arthur Hay Stewart Reid"
+    },
+    "properties": {
+      "birth_date": "1851-10-10T00:00:00Z",
+      "death_date": "1930-11-07T00:00:00Z",
+      "occupation": "lawyer"
+    },
+    "type": "person"
+  }
+}

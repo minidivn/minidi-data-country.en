@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q20748956",
+      "title": "WikiData Q-item: Q20748956",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q20748956"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Daughter of the print publisher Thomas Macklin"
+    },
+    "descriptions": {
+      "en": "Daughter of the print publisher Thomas Macklin"
+    },
+    "domain": "general",
+    "id": "Q20748956",
+    "labels": {
+      "en": "Maria Macklin"
+    },
+    "properties": {
+      "occupation": "model"
+    },
+    "type": "person"
+  }
+}

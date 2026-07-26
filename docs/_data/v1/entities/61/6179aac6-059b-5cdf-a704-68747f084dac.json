@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q18039911",
+      "title": "WikiData Q-item: Q18039911",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18039911"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English schoolmaster and poet"
+    },
+    "descriptions": {
+      "en": "English schoolmaster and poet"
+    },
+    "domain": "general",
+    "id": "Q18039911",
+    "labels": {
+      "en": "Nicholas Toms Carrington"
+    },
+    "properties": {
+      "birth_date": "1777-01-01T00:00:00Z",
+      "death_date": "1830-09-02T00:00:00Z",
+      "occupation": "schoolmaster"
+    },
+    "type": "person"
+  }
+}

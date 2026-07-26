@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3525447",
+      "title": "WikiData Q-item: Q3525447",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3525447"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English poet and alchemist"
+    },
+    "descriptions": {
+      "en": "English poet and alchemist"
+    },
+    "domain": "general",
+    "id": "Q3525447",
+    "labels": {
+      "en": "Thomas Norton"
+    },
+    "properties": {
+      "birth_date": "1433-01-01T00:00:00Z",
+      "death_date": "1513-01-01T00:00:00Z",
+      "occupation": "writer"
+    },
+    "type": "person"
+  }
+}

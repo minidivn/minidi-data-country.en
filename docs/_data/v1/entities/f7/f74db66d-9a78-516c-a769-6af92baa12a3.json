@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6969741",
+      "title": "WikiData Q-item: Q6969741",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6969741"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Convict transported to Australia"
+    },
+    "descriptions": {
+      "en": "Convict transported to Australia"
+    },
+    "domain": "general",
+    "id": "Q6969741",
+    "labels": {
+      "en": "Nathaniel Lucas"
+    },
+    "properties": {
+      "birth_date": "1764-01-01T00:00:00Z",
+      "death_date": "1818-04-28T00:00:00Z",
+      "occupation": "carpenter"
+    },
+    "type": "person"
+  }
+}

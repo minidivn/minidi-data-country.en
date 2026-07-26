@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6776488",
+      "title": "WikiData Q-item: Q6776488",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6776488"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Classical scholar and college head"
+    },
+    "descriptions": {
+      "en": "Classical scholar and college head"
+    },
+    "domain": "general",
+    "id": "Q6776488",
+    "labels": {
+      "en": "Martin Routh"
+    },
+    "properties": {
+      "birth_date": "1755-09-18T00:00:00Z",
+      "death_date": "1854-12-22T00:00:00Z",
+      "occupation": "teacher"
+    },
+    "type": "person"
+  }
+}

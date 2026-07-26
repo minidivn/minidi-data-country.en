@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6721401",
+      "title": "WikiData Q-item: Q6721401",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6721401"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "British artist (1874–1941)"
+    },
+    "descriptions": {
+      "en": "British artist (1874–1941)"
+    },
+    "domain": "general",
+    "id": "Q6721401",
+    "labels": {
+      "en": "Mabel Alington Royds"
+    },
+    "properties": {
+      "birth_date": "1874-01-01T00:00:00Z",
+      "death_date": "1941-01-01T00:00:00Z",
+      "occupation": "artist"
+    },
+    "type": "person"
+  }
+}

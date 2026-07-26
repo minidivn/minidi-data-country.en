@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1141647",
+      "title": "WikiData Q-item: Q1141647",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1141647"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English Catholic martyr (1550-1588)"
+    },
+    "descriptions": {
+      "en": "English Catholic martyr (1550-1588)"
+    },
+    "domain": "general",
+    "id": "Q1141647",
+    "labels": {
+      "en": "Margaret Ward"
+    },
+    "properties": {
+      "birth_date": "1550-01-01T00:00:00Z",
+      "death_date": "1588-08-30T00:00:00Z",
+      "occupation": "politician"
+    },
+    "type": "person"
+  }
+}

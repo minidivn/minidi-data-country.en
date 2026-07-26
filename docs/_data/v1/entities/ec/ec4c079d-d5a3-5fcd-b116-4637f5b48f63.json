@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2953950",
+      "title": "WikiData Q-item: Q2953950",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2953950"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Curling tournament in Cortina d'Ampezzo, Italy"
+    },
+    "descriptions": {
+      "en": "Curling tournament in Cortina d'Ampezzo, Italy"
+    },
+    "domain": "general",
+    "id": "Q2953950",
+    "labels": {
+      "en": "2009 World Mixed Doubles Curling Championship"
+    },
+    "properties": {
+      "end_time": "2009-04-25T00:00:00Z",
+      "point_in_time": "2009-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

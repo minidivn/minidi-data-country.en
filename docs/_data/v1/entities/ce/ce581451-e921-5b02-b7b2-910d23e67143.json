@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7609161",
+      "title": "WikiData Q-item: Q7609161",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7609161"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English chronicler"
+    },
+    "descriptions": {
+      "en": "English chronicler"
+    },
+    "domain": "general",
+    "id": "Q7609161",
+    "labels": {
+      "en": "Stephen Eyton"
+    },
+    "properties": {
+      "death_date": "1301-01-01T00:00:00Z",
+      "occupation": "chronicler"
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1246573",
+      "title": "WikiData Q-item: Q1246573",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1246573"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "British artist (1748–1828)"
+    },
+    "descriptions": {
+      "en": "British artist (1748–1828)"
+    },
+    "domain": "general",
+    "id": "Q1246573",
+    "labels": {
+      "en": "Anne Seymour Damer"
+    },
+    "properties": {
+      "birth_date": "1748-11-08T00:00:00Z",
+      "death_date": "1828-05-28T00:00:00Z",
+      "occupation": "artist"
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5786150",
+      "title": "WikiData Q-item: Q5786150",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5786150"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Swedish military commander of Scots-Irish background"
+    },
+    "descriptions": {
+      "en": "Swedish military commander of Scots-Irish background"
+    },
+    "domain": "general",
+    "id": "Q5786150",
+    "labels": {
+      "en": "Hugo Hamilton of Hageby"
+    },
+    "properties": {
+      "birth_date": "1655-05-20T00:00:00Z",
+      "death_date": "1724-01-19T00:00:00Z",
+      "occupation": "civil servant"
+    },
+    "type": "person"
+  }
+}

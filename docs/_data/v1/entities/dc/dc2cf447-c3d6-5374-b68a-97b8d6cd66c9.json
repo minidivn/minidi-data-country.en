@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q447413",
+      "title": "WikiData Q-item: Q447413",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q447413"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "British noble"
+    },
+    "descriptions": {
+      "en": "British noble"
+    },
+    "domain": "general",
+    "id": "Q447413",
+    "labels": {
+      "en": "Maud, Countess of Leicester"
+    },
+    "properties": {
+      "birth_date": "1339-04-12T00:00:00Z",
+      "death_date": "1362-04-18T00:00:00Z"
+    },
+    "type": "person"
+  }
+}

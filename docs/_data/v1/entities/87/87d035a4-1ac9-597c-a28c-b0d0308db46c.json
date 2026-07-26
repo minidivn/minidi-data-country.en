@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q17388251",
+      "title": "WikiData Q-item: Q17388251",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q17388251"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English miniature painter"
+    },
+    "descriptions": {
+      "en": "English miniature painter"
+    },
+    "domain": "general",
+    "id": "Q17388251",
+    "labels": {
+      "en": "Penelope Cleyn"
+    },
+    "properties": {
+      "occupation": "painter"
+    },
+    "type": "person"
+  }
+}

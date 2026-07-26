@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3938198",
+      "title": "WikiData Q-item: Q3938198",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3938198"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English bishop of Carlisle (1488/89-1556)"
+    },
+    "descriptions": {
+      "en": "English bishop of Carlisle (1488/89-1556)"
+    },
+    "domain": "general",
+    "id": "Q3938198",
+    "labels": {
+      "en": "Robert Aldrich"
+    },
+    "properties": {
+      "birth_date": "1488-01-01T00:00:00Z",
+      "death_date": "1556-03-15T00:00:00Z",
+      "occupation": "priest"
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q18546713",
+      "title": "WikiData Q-item: Q18546713",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18546713"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Fleming, Sir Oliver (d. 1661), courtier and diplomat"
+    },
+    "descriptions": {
+      "en": "Fleming, Sir Oliver (d. 1661), courtier and diplomat"
+    },
+    "domain": "general",
+    "id": "Q18546713",
+    "labels": {
+      "en": "Oliver Fleming"
+    },
+    "properties": {
+      "death_date": "1661-01-01T00:00:00Z",
+      "occupation": "diplomat"
+    },
+    "type": "person"
+  }
+}

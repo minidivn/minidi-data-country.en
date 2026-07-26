@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q636113",
+      "title": "WikiData Q-item: Q636113",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q636113"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Dutch-English painter (1593-1661)"
+    },
+    "descriptions": {
+      "en": "Dutch-English painter (1593-1661)"
+    },
+    "domain": "general",
+    "id": "Q636113",
+    "labels": {
+      "en": "Cornelis Janssens van Ceulen"
+    },
+    "properties": {
+      "birth_date": "1593-10-24T00:00:00Z",
+      "death_date": "1661-08-05T00:00:00Z",
+      "occupation": "painter"
+    },
+    "type": "person"
+  }
+}

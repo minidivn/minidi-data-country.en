@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3809223",
+      "title": "WikiData Q-item: Q3809223",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3809223"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English nobleman and the heir of John Dudley, 1st Duke of Northumberland"
+    },
+    "descriptions": {
+      "en": "English nobleman and the heir of John Dudley, 1st Duke of Northumberland"
+    },
+    "domain": "general",
+    "id": "Q3809223",
+    "labels": {
+      "en": "John Dudley, 2nd Earl of Warwick"
+    },
+    "properties": {
+      "birth_date": "1527-01-01T00:00:00Z",
+      "death_date": "1554-10-31T00:00:00Z"
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q18576181",
+      "title": "WikiData Q-item: Q18576181",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18576181"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Hiorne, Francis (1744–1789), architect"
+    },
+    "descriptions": {
+      "en": "Hiorne, Francis (1744–1789), architect"
+    },
+    "domain": "general",
+    "id": "Q18576181",
+    "labels": {
+      "en": "Francis Hiorne"
+    },
+    "properties": {
+      "birth_date": "1744-01-01T00:00:00Z",
+      "death_date": "1789-12-09T00:00:00Z",
+      "occupation": "architect"
+    },
+    "type": "person"
+  }
+}

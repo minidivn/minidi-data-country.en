@@ -1,7 +1,7 @@
 {
   "repo": "minidi-data-country.en",
-  "name": "\\ United States\\",
-  "qid": "Q30",
+  "name": "England",
+  "qid": "Q21",
   "language": "en",
   "crawl_settings": {
     "limit": 100,

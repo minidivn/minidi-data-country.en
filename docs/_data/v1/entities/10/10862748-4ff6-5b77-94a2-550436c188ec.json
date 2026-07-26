@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q55979288",
+      "title": "WikiData Q-item: Q55979288",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q55979288"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English landowner"
+    },
+    "descriptions": {
+      "en": "English landowner"
+    },
+    "domain": "general",
+    "id": "Q55979288",
+    "labels": {
+      "en": "Sir Walter Wrottesley, 3rd Baronet"
+    },
+    "properties": {
+      "birth_date": "1659-01-01T00:00:00Z",
+      "death_date": "1712-01-01T00:00:00Z",
+      "occupation": "aristocrat"
+    },
+    "type": "person"
+  }
+}

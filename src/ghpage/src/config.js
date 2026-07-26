@@ -1,16 +1,16 @@
 export default {
   "countryCode": "en",
-  "countryName": "United States",
+  "countryName": "England",
   "countryEmoji": "🇺🇸",
   "languages": [
     "en",
     "en"
   ],
   "defaultLanguage": "en",
-  "title": "United States Knowledge Graph",
-  "subtitle": "Exploring 11,810 WikiData entities: history, geography, people & culture",
+  "title": "England Knowledge Graph",
+  "subtitle": "Exploring 12,406 WikiData entities: history, geography, people & culture",
   "splashTitle": "🇺🇸 MiniDi",
-  "splashMessage": "Loading United States knowledge graph...",
+  "splashMessage": "Loading England knowledge graph...",
   "mapCenter": [
     20.0,
     0.0
@@ -19,13 +19,13 @@ export default {
   "githubRepo": "minidivn/minidi-data-country.en",
   "dataSource": "WikiData",
   "dataPath": "_data/index.json",
-  "chatCountry": "United States",
-  "chatGreeting": "Ask me about United States — history, people, places, events.",
+  "chatCountry": "England",
+  "chatGreeting": "Ask me about England — history, people, places, events.",
   "slides": [
     {
-      "label": "United States Overview",
+      "label": "England Overview",
       "lang": "en",
-      "labelAlt": "United States",
+      "labelAlt": "England",
       "langAlt": "en",
       "img": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
       "grad": "linear-gradient(135deg, #1e3a5f, #2563eb, #60a5fa)"
@@ -67,7 +67,7 @@ export default {
       "builtWith": "Built with",
       "source": "source",
       "chatTitle": "MiniDi Assistant",
-      "chatPlaceholder": "Ask about United States...",
+      "chatPlaceholder": "Ask about England...",
       "entitiesTotal": "{n} entities",
       "mapPlaces": "Places",
       "mapPeople": "People",

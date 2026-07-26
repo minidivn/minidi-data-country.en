@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28074888",
+      "title": "WikiData Q-item: Q28074888",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28074888"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": ""
+    },
+    "descriptions": {
+      "en": ""
+    },
+    "domain": "general",
+    "id": "Q28074888",
+    "labels": {
+      "en": "Henderson"
+    },
+    "properties": {
+      "occupation": "association football coach"
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1772933",
+      "title": "WikiData Q-item: Q1772933",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1772933"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "curling competition at Garmisch-Partenkirchen, Germany"
+    },
+    "descriptions": {
+      "en": "curling competition at Garmisch-Partenkirchen, Germany"
+    },
+    "domain": "general",
+    "id": "Q1772933",
+    "labels": {
+      "en": "1992 Canada Safeway World Men's Curling Championship"
+    },
+    "properties": {
+      "end_time": "1992-04-05T00:00:00Z",
+      "point_in_time": "1992-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

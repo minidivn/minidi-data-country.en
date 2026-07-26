@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q40973300",
+      "title": "WikiData Q-item: Q40973300",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q40973300"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "British aristocrat, botanist and horticulturalist (1751-1809)"
+    },
+    "descriptions": {
+      "en": "British aristocrat, botanist and horticulturalist (1751-1809)"
+    },
+    "domain": "general",
+    "id": "Q40973300",
+    "labels": {
+      "en": "Amelia Egerton, Lady Hume"
+    },
+    "properties": {
+      "birth_date": "1751-01-01T00:00:00Z",
+      "death_date": "1809-01-01T00:00:00Z",
+      "occupation": "aristocrat"
+    },
+    "type": "person"
+  }
+}

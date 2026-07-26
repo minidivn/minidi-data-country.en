@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6470296",
+      "title": "WikiData Q-item: Q6470296",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6470296"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English highwayman"
+    },
+    "descriptions": {
+      "en": "English highwayman"
+    },
+    "domain": "general",
+    "id": "Q6470296",
+    "labels": {
+      "en": "Lady Katherine Ferrers"
+    },
+    "properties": {
+      "birth_date": "1634-05-04T00:00:00Z",
+      "death_date": "1660-06-01T00:00:00Z"
+    },
+    "type": "person"
+  }
+}

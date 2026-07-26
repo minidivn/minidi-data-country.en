@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q20646801",
+      "title": "WikiData Q-item: Q20646801",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q20646801"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": ""
+    },
+    "descriptions": {
+      "en": ""
+    },
+    "domain": "general",
+    "id": "Q20646801",
+    "labels": {
+      "en": "2015 World Mixed Curling Championship"
+    },
+    "properties": {
+      "end_time": "2015-09-19T00:00:00Z",
+      "point_in_time": "2015-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

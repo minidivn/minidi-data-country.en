@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q19802626",
+      "title": "WikiData Q-item: Q19802626",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q19802626"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "British ? English | Genre Painter, Miniaturist, Painter, Portraitist"
+    },
+    "descriptions": {
+      "en": "British ? English | Genre Painter, Miniaturist, Painter, Portraitist"
+    },
+    "domain": "general",
+    "id": "Q19802626",
+    "labels": {
+      "en": "Rabindra K.D. Singh"
+    },
+    "properties": {
+      "occupation": "painter"
+    },
+    "type": "person"
+  }
+}

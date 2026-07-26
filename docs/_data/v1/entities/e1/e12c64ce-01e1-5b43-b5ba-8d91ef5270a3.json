@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q717346",
+      "title": "WikiData Q-item: Q717346",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q717346"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Anglo-Portuguese agreement to support eachother in international affairs"
+    },
+    "descriptions": {
+      "en": "Anglo-Portuguese agreement to support eachother in international affairs"
+    },
+    "domain": "general",
+    "id": "Q717346",
+    "labels": {
+      "en": "Treaty of Windsor"
+    },
+    "properties": {
+      "point_in_time": "1386-05-17T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

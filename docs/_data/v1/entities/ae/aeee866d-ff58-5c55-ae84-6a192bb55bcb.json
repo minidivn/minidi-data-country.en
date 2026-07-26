@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1343764",
+      "title": "WikiData Q-item: Q1343764",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1343764"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English composer"
+    },
+    "descriptions": {
+      "en": "English composer"
+    },
+    "domain": "general",
+    "id": "Q1343764",
+    "labels": {
+      "en": "Giles Farnaby"
+    },
+    "properties": {
+      "birth_date": "1563-01-01T00:00:00Z",
+      "death_date": "1640-11-24T00:00:00Z",
+      "occupation": "composer"
+    },
+    "type": "person"
+  }
+}

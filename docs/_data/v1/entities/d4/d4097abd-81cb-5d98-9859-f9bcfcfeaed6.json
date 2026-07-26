@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5536909",
+      "title": "WikiData Q-item: Q5536909",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5536909"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "British theologian"
+    },
+    "descriptions": {
+      "en": "British theologian"
+    },
+    "domain": "general",
+    "id": "Q5536909",
+    "labels": {
+      "en": "George Benson"
+    },
+    "properties": {
+      "birth_date": "1699-09-01T00:00:00Z",
+      "death_date": "1761-08-13T00:00:00Z",
+      "occupation": "pastor"
+    },
+    "type": "person"
+  }
+}

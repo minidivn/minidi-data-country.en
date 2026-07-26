@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3710116",
+      "title": "WikiData Q-item: Q3710116",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3710116"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "British mathematician"
+    },
+    "descriptions": {
+      "en": "British mathematician"
+    },
+    "domain": "general",
+    "id": "Q3710116",
+    "labels": {
+      "en": "John Blagrave"
+    },
+    "properties": {
+      "birth_date": "1561-01-11T00:00:00Z",
+      "death_date": "1611-08-09T00:00:00Z",
+      "occupation": "mathematician"
+    },
+    "type": "person"
+  }
+}

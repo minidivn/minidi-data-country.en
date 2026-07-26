@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4768536",
+      "title": "WikiData Q-item: Q4768536",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4768536"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English Countess"
+    },
+    "descriptions": {
+      "en": "English Countess"
+    },
+    "domain": "general",
+    "id": "Q4768536",
+    "labels": {
+      "en": "Anne Lennard, Countess of Sussex"
+    },
+    "properties": {
+      "birth_date": "1661-02-25T00:00:00Z",
+      "death_date": "1722-05-16T00:00:00Z",
+      "occupation": "aristocrat"
+    },
+    "type": "person"
+  }
+}

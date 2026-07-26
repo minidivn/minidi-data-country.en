@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1681281",
+      "title": "WikiData Q-item: Q1681281",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1681281"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "English painter and engraver (1769-1859)"
+    },
+    "descriptions": {
+      "en": "English painter and engraver (1769-1859)"
+    },
+    "domain": "general",
+    "id": "Q1681281",
+    "labels": {
+      "en": "James Ward"
+    },
+    "properties": {
+      "birth_date": "1769-10-23T00:00:00Z",
+      "death_date": "1859-11-23T00:00:00Z",
+      "occupation": "painter"
+    },
+    "type": "person"
+  }
+}

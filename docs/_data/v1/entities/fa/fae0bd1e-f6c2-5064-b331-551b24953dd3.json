@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T17:42:32.038746600+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T17:42:32.038746600+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6273866",
+      "title": "WikiData Q-item: Q6273866",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6273866"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "British-American Episcopal Bishop (1792–1854)"
+    },
+    "descriptions": {
+      "en": "British-American Episcopal Bishop (1792–1854)"
+    },
+    "domain": "general",
+    "id": "Q6273866",
+    "labels": {
+      "en": "Jonathan Mayhew Wainwright I"
+    },
+    "properties": {
+      "birth_date": "1792-02-24T00:00:00Z",
+      "death_date": "1854-09-21T00:00:00Z",
+      "occupation": "Christian minister"
+    },
+    "type": "person"
+  }
+}
