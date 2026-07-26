@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4509",
+      "title": "WikiData Q-item: Q4509",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4509"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American actress (born 1997)"
+    },
+    "descriptions": {
+      "en": "American actress (born 1997)"
+    },
+    "domain": "general",
+    "id": "Q4509",
+    "labels": {
+      "en": "Chloë Grace Moretz"
+    },
+    "properties": {
+      "birth_date": "1997-02-10T00:00:00Z",
+      "occupation": "voice actor"
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7818257",
+      "title": "WikiData Q-item: Q7818257",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7818257"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in Exeter, Rhode Island, USA"
+    },
+    "descriptions": {
+      "en": "museum in Exeter, Rhode Island, USA"
+    },
+    "domain": "general",
+    "id": "Q7818257",
+    "labels": {
+      "en": "Tomaquag Indian Memorial Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-71.69785 41.5575)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q87768615",
+      "title": "WikiData Q-item: Q87768615",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q87768615"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Later form of Philadelphia Museum School of Art, following its accreditation as a College and separation from Philadelphia Museum of Art."
+    },
+    "descriptions": {
+      "en": "Later form of Philadelphia Museum School of Art, following its accreditation as a College and separation from Philadelphia Museum of Art."
+    },
+    "domain": "general",
+    "id": "Q87768615",
+    "labels": {
+      "en": "Philadelphia College of Art"
+    },
+    "properties": {
+      "end_time": "1985-01-01T00:00:00Z",
+      "start_time": "1876-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

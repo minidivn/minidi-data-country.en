@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6940643",
+      "title": "WikiData Q-item: Q6940643",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6940643"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "center for materials conservation and technical research"
+    },
+    "descriptions": {
+      "en": "center for materials conservation and technical research"
+    },
+    "domain": "general",
+    "id": "Q6940643",
+    "labels": {
+      "en": "Museum Conservation Institute"
+    },
+    "properties": {
+      "coordinates": "Point(-76.939754002 38.843064844)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3062383",
+      "title": "WikiData Q-item: Q3062383",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3062383"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "expedition which was part of a two-pronged invasion of the British Province of Quebec (1775)"
+    },
+    "descriptions": {
+      "en": "expedition which was part of a two-pronged invasion of the British Province of Quebec (1775)"
+    },
+    "domain": "general",
+    "id": "Q3062383",
+    "labels": {
+      "en": "Benedict Arnold's expedition to Quebec"
+    },
+    "properties": {
+      "point_in_time": "1775-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

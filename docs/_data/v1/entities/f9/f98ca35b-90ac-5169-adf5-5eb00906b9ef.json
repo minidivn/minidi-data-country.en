@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4090287",
+      "title": "WikiData Q-item: Q4090287",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4090287"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "on 19 April 1782"
+    },
+    "descriptions": {
+      "en": "on 19 April 1782"
+    },
+    "domain": "general",
+    "id": "Q4090287",
+    "labels": {
+      "en": "Battle of the Mona Passage"
+    },
+    "properties": {
+      "point_in_time": "1782-04-19T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q9434",
+      "title": "WikiData Q-item: Q9434",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q9434"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American golfer (1929–2016)"
+    },
+    "descriptions": {
+      "en": "American golfer (1929–2016)"
+    },
+    "domain": "general",
+    "id": "Q9434",
+    "labels": {
+      "en": "Arnold Palmer"
+    },
+    "properties": {
+      "birth_date": "1929-09-10T00:00:00Z",
+      "death_date": "2016-09-25T00:00:00Z",
+      "occupation": "athlete"
+    },
+    "type": "person"
+  }
+}

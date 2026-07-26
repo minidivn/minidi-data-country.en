@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q49324796",
+      "title": "WikiData Q-item: Q49324796",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q49324796"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": ""
+    },
+    "descriptions": {
+      "en": ""
+    },
+    "domain": "general",
+    "id": "Q49324796",
+    "labels": {
+      "en": "Slukam-tugumaga"
+    },
+    "properties": {
+      "coordinates": "Point(-165.431944444 54.204166666)"
+    },
+    "type": "place"
+  }
+}

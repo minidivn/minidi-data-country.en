@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q949",
+      "title": "WikiData Q-item: Q949",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q949"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American physicist and engineer (1908–1991)"
+    },
+    "descriptions": {
+      "en": "American physicist and engineer (1908–1991)"
+    },
+    "domain": "general",
+    "id": "Q949",
+    "labels": {
+      "en": "John Bardeen"
+    },
+    "properties": {
+      "birth_date": "1908-05-23T00:00:00Z",
+      "death_date": "1991-01-30T00:00:00Z",
+      "occupation": "inventor"
+    },
+    "type": "person"
+  }
+}

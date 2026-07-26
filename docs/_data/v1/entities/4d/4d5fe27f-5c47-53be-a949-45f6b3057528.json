@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5368220",
+      "title": "WikiData Q-item: Q5368220",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5368220"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic museum at the birthplace of Elvis Presley"
+    },
+    "descriptions": {
+      "en": "historic museum at the birthplace of Elvis Presley"
+    },
+    "domain": "general",
+    "id": "Q5368220",
+    "labels": {
+      "en": "Elvis Presley Birthplace"
+    },
+    "properties": {
+      "coordinates": "Point(-88.68 34.26)"
+    },
+    "type": "place"
+  }
+}

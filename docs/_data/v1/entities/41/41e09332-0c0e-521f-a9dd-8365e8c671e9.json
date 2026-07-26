@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28384",
+      "title": "WikiData Q-item: Q28384",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28384"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Gu Oidak (also known as Big Fields or Kuoitak) is a census-designated place (CDP) located within the Tohono O'odham Nation Division in Pima County, Arizona, United States.  The population was 198 at the 2020 census. The name \"Gu Oidak\" is the O'odham term for \"big field\" and located on the Tohono O'odham Nation reservation."
+    },
+    "descriptions": {
+      "en": "census-designated place in Arizona"
+    },
+    "domain": "general",
+    "id": "Q28384",
+    "labels": {
+      "en": "Gu Oidak"
+    },
+    "properties": {
+      "coordinates": "Point(-112.043333333 31.921666666)",
+      "summary": "Gu Oidak (also known as Big Fields or Kuoitak) is a census-designated place (CDP) located within the Tohono O'odham Nation Division in Pima County, Arizona, United States.  The population was 198 at the 2020 census. The name \"Gu Oidak\" is the O'odham term for \"big field\" and located on the Tohono O'odham Nation reservation."
+    },
+    "type": "place"
+  }
+}

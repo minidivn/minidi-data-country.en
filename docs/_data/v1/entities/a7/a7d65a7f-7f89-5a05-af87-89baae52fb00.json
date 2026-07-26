@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4616",
+      "title": "WikiData Q-item: Q4616",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4616"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American actress and model (1926–1962)"
+    },
+    "descriptions": {
+      "en": "American actress and model (1926–1962)"
+    },
+    "domain": "general",
+    "id": "Q4616",
+    "labels": {
+      "en": "Marilyn Monroe"
+    },
+    "properties": {
+      "birth_date": "1926-06-01T00:00:00Z",
+      "death_date": "1962-08-05T00:00:00Z",
+      "occupation": "musician"
+    },
+    "type": "person"
+  }
+}

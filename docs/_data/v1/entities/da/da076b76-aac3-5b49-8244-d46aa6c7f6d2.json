@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2051041",
+      "title": "WikiData Q-item: Q2051041",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2051041"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1713 treaty"
+    },
+    "descriptions": {
+      "en": "1713 treaty"
+    },
+    "domain": "general",
+    "id": "Q2051041",
+    "labels": {
+      "en": "Treaty of Portsmouth"
+    },
+    "properties": {
+      "point_in_time": "1713-07-13T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7375127",
+      "title": "WikiData Q-item: Q7375127",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7375127"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "British-Indian military raid during the American War of Independence"
+    },
+    "descriptions": {
+      "en": "British-Indian military raid during the American War of Independence"
+    },
+    "domain": "general",
+    "id": "Q7375127",
+    "labels": {
+      "en": "Royalton Raid"
+    },
+    "properties": {
+      "point_in_time": "1780-10-16T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

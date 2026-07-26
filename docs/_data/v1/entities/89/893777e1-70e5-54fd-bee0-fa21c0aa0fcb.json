@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q61",
+      "title": "WikiData Q-item: Q61",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q61"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Washington, D.C., officially the District of Columbia and commonly known as Washington or D.C., is the capital city and federal district of the United States. The city is on the Potomac River across from Virginia and shares land borders with Maryland to its north and east. It was named after George Washington, a Founding Father and the first president of the United States. The district is named for Columbia, the female personification of the nation, through which human form and attributes are applied to the United States. The U.S. Constitution in 1789 called for the creation of a federal district under exclusive jurisdiction of the U.S. Congress. As such, Washington, D.C., is not part of any state, and is not one itself. The Residence Act, adopted on July 16, 1790, approved the creation of the capital district along the Potomac River, and is considered the city's founding date."
+    },
+    "descriptions": {
+      "en": "capital city of the United States of America"
+    },
+    "domain": "general",
+    "id": "Q61",
+    "labels": {
+      "en": "Washington, D.C."
+    },
+    "properties": {
+      "coordinates": "Point(-77.036666666 38.895)",
+      "summary": "Washington, D.C., officially the District of Columbia and commonly known as Washington or D.C., is the capital city and federal district of the United States. The city is on the Potomac River across from Virginia and shares land borders with Maryland to its north and east. It was named after George Washington, a Founding Father and the first president of the United States. The district is named for Columbia, the female personification of the nation, through which human form and attributes are applied to the United States. The U.S. Constitution in 1789 called for the creation of a federal district under exclusive jurisdiction of the U.S. Congress. As such, Washington, D.C., is not part of any state, and is not one itself. The Residence Act, adopted on July 16, 1790, approved the creation of the capital district along the Potomac River, and is considered the city's founding date."
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6940825",
+      "title": "WikiData Q-item: Q6940825",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6940825"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Young earth creationist museum in California"
+    },
+    "descriptions": {
+      "en": "Young earth creationist museum in California"
+    },
+    "domain": "general",
+    "id": "Q6940825",
+    "labels": {
+      "en": "Museum of Creation and Earth History"
+    },
+    "properties": {
+      "coordinates": "Point(-116.96 32.8453)"
+    },
+    "type": "place"
+  }
+}

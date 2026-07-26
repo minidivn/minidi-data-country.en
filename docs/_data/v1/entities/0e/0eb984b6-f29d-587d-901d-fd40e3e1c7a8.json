@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28281",
+      "title": "WikiData Q-item: Q28281",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28281"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Upper Tanana (also known as Tabesna, Nabesna or Nee'aanèegn') is an endangered Athabaskan language spoken in eastern Interior Alaska, United States, mainly in the villages of Northway, Tetlin, and Tok, and adjacent areas of the Canadian territory of Yukon. In 2000 there were fewer than 100 speakers, and the language was no longer being acquired by children."
+    },
+    "descriptions": {
+      "en": "Indigenous language of North America"
+    },
+    "domain": "general",
+    "id": "Q28281",
+    "labels": {
+      "en": "Upper Tanana"
+    },
+    "properties": {
+      "summary": "Upper Tanana (also known as Tabesna, Nabesna or Nee'aanèegn') is an endangered Athabaskan language spoken in eastern Interior Alaska, United States, mainly in the villages of Northway, Tetlin, and Tok, and adjacent areas of the Canadian territory of Yukon. In 2000 there were fewer than 100 speakers, and the language was no longer being acquired by children."
+    },
+    "type": "place"
+  }
+}

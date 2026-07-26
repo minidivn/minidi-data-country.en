@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q706755",
+      "title": "WikiData Q-item: Q706755",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q706755"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1776 battle of the American Revolutionary War"
+    },
+    "descriptions": {
+      "en": "1776 battle of the American Revolutionary War"
+    },
+    "domain": "general",
+    "id": "Q706755",
+    "labels": {
+      "en": "Battle of Fort Washington"
+    },
+    "properties": {
+      "point_in_time": "1776-11-16T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

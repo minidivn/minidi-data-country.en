@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7895563",
+      "title": "WikiData Q-item: Q7895563",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7895563"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "natural history museum in Iowa, US"
+    },
+    "descriptions": {
+      "en": "natural history museum in Iowa, US"
+    },
+    "domain": "general",
+    "id": "Q7895563",
+    "labels": {
+      "en": "University of Iowa Museum of Natural History"
+    },
+    "properties": {
+      "coordinates": "Point(-91.5357 41.6619)"
+    },
+    "type": "place"
+  }
+}

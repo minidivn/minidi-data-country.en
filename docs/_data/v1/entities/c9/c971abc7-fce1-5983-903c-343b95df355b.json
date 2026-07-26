@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4293",
+      "title": "WikiData Q-item: Q4293",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4293"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American film and television actor"
+    },
+    "descriptions": {
+      "en": "American film and television actor"
+    },
+    "domain": "general",
+    "id": "Q4293",
+    "labels": {
+      "en": "Jon Abrahams"
+    },
+    "properties": {
+      "birth_date": "1977-10-29T00:00:00Z",
+      "occupation": "film director"
+    },
+    "type": "person"
+  }
+}

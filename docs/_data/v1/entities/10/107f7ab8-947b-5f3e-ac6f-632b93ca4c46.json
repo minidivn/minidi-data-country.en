@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7080870",
+      "title": "WikiData Q-item: Q7080870",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7080870"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Railway museum in Worthington, Ohio"
+    },
+    "descriptions": {
+      "en": "Railway museum in Worthington, Ohio"
+    },
+    "domain": "general",
+    "id": "Q7080870",
+    "labels": {
+      "en": "Ohio Railway Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-83.0033 40.0931)"
+    },
+    "type": "place"
+  }
+}

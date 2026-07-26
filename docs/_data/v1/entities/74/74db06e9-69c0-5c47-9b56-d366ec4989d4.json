@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28225",
+      "title": "WikiData Q-item: Q28225",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28225"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "2K is an American video game publisher based in Novato, California. The company was founded as a subsidiary of Take-Two Interactive in January 2005 through the 2K Games and 2K Sports sub-labels. The nascent label incorporated several development studios owned by Take-Two, including Visual Concepts and Kush Games, which had been acquired the day before. Originally based in New York City, 2K moved to Novato in 2007. A third label, 2K Play, was added in September 2007. 2K is governed by David Ismailer as president and Phil Dixon as chief operating officer. It operates a motion capture studio in Petaluma, California."
+    },
+    "descriptions": {
+      "en": "video game publisher"
+    },
+    "domain": "general",
+    "id": "Q28225",
+    "labels": {
+      "en": "2K Play"
+    },
+    "properties": {
+      "summary": "2K is an American video game publisher based in Novato, California. The company was founded as a subsidiary of Take-Two Interactive in January 2005 through the 2K Games and 2K Sports sub-labels. The nascent label incorporated several development studios owned by Take-Two, including Visual Concepts and Kush Games, which had been acquired the day before. Originally based in New York City, 2K moved to Novato in 2007. A third label, 2K Play, was added in September 2007. 2K is governed by David Ismailer as president and Phil Dixon as chief operating officer. It operates a motion capture studio in Petaluma, California."
+    },
+    "type": "place"
+  }
+}

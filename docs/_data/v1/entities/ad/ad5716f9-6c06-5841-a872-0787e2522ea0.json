@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q136824547",
+      "title": "WikiData Q-item: Q136824547",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q136824547"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "combined area of two historic Jewish burial sections in Oakland Cemetery, Atlanta, Georgia"
+    },
+    "descriptions": {
+      "en": "combined area of two historic Jewish burial sections in Oakland Cemetery, Atlanta, Georgia"
+    },
+    "domain": "general",
+    "id": "Q136824547",
+    "labels": {
+      "en": "Jewish Flat and Jewish Hill (Oakland Cemetery)"
+    },
+    "properties": {
+      "start_time": "1878-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

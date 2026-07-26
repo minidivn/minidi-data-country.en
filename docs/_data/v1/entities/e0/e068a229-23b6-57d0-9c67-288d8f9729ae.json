@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q49321998",
+      "title": "WikiData Q-item: Q49321998",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q49321998"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "beach in Washington County, Rhode Island, United States"
+    },
+    "descriptions": {
+      "en": "beach in Washington County, Rhode Island, United States"
+    },
+    "domain": "general",
+    "id": "Q49321998",
+    "labels": {
+      "en": "Matunuck Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-71.545 41.373611111)"
+    },
+    "type": "place"
+  }
+}

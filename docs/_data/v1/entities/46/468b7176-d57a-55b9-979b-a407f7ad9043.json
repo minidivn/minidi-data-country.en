@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7558",
+      "title": "WikiData Q-item: Q7558",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7558"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American software designer and network engineer (born 1951)"
+    },
+    "descriptions": {
+      "en": "American software designer and network engineer (born 1951)"
+    },
+    "domain": "general",
+    "id": "Q7558",
+    "labels": {
+      "en": "Radia Perlman"
+    },
+    "properties": {
+      "birth_date": "1951-12-18T00:00:00Z",
+      "occupation": "mathematician"
+    },
+    "type": "person"
+  }
+}

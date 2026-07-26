@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5021148",
+      "title": "WikiData Q-item: Q5021148",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5021148"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Non-profit organization"
+    },
+    "descriptions": {
+      "en": "Non-profit organization"
+    },
+    "domain": "general",
+    "id": "Q5021148",
+    "labels": {
+      "en": "California Trolley and Railroad Corporation"
+    },
+    "properties": {
+      "coordinates": "Point(-121.857 37.3195)"
+    },
+    "type": "place"
+  }
+}

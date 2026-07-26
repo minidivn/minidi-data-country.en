@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7830534",
+      "title": "WikiData Q-item: Q7830534",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7830534"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Toy museum in East Aurora, New York"
+    },
+    "descriptions": {
+      "en": "Toy museum in East Aurora, New York"
+    },
+    "domain": "general",
+    "id": "Q7830534",
+    "labels": {
+      "en": "Toy Town Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-78.612519 42.772442)"
+    },
+    "type": "place"
+  }
+}

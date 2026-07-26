@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q12065",
+      "title": "WikiData Q-item: Q12065",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q12065"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Puerto Rican businessman (1902–1960)"
+    },
+    "descriptions": {
+      "en": "Puerto Rican businessman (1902–1960)"
+    },
+    "domain": "general",
+    "id": "Q12065",
+    "labels": {
+      "en": "Carl Ramos"
+    },
+    "properties": {
+      "birth_date": "1902-12-03T00:00:00Z",
+      "death_date": "1960-09-01T00:00:00Z",
+      "occupation": "entrepreneur"
+    },
+    "type": "person"
+  }
+}

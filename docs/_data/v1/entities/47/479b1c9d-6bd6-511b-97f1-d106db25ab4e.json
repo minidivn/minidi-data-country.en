@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7878419",
+      "title": "WikiData Q-item: Q7878419",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7878419"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "archive and museum in Detroit, Michigan"
+    },
+    "descriptions": {
+      "en": "archive and museum in Detroit, Michigan"
+    },
+    "domain": "general",
+    "id": "Q7878419",
+    "labels": {
+      "en": "Ukrainian American Archives and Museum of Detroit"
+    },
+    "properties": {
+      "coordinates": "Point(-83.057111111 42.396305555)"
+    },
+    "type": "place"
+  }
+}

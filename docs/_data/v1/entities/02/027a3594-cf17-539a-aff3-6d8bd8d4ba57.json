@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4555992",
+      "title": "WikiData Q-item: Q4555992",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4555992"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "political nominating convention for the 1884 United States presidential election"
+    },
+    "descriptions": {
+      "en": "political nominating convention for the 1884 United States presidential election"
+    },
+    "domain": "general",
+    "id": "Q4555992",
+    "labels": {
+      "en": "1884 Democratic National Convention"
+    },
+    "properties": {
+      "end_time": "1884-07-11T00:00:00Z",
+      "start_time": "1884-07-08T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

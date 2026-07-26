@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6924950",
+      "title": "WikiData Q-item: Q6924950",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6924950"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "History museum in Old Fort, North Carolina"
+    },
+    "descriptions": {
+      "en": "History museum in Old Fort, North Carolina"
+    },
+    "domain": "general",
+    "id": "Q6924950",
+    "labels": {
+      "en": "Mountain Gateway Museum and Heritage Center"
+    },
+    "properties": {
+      "coordinates": "Point(-82.1808 35.6276)"
+    },
+    "type": "place"
+  }
+}

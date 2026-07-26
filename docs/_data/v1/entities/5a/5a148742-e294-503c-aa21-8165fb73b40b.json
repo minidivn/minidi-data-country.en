@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4087333",
+      "title": "WikiData Q-item: Q4087333",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4087333"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1868 armed conflict between elements of the United States Army and several of the Plains Native American tribes"
+    },
+    "descriptions": {
+      "en": "1868 armed conflict between elements of the United States Army and several of the Plains Native American tribes"
+    },
+    "domain": "general",
+    "id": "Q4087333",
+    "labels": {
+      "en": "Battle of Beecher Island"
+    },
+    "properties": {
+      "end_time": "1868-09-25T00:00:00Z",
+      "start_time": "1868-09-17T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

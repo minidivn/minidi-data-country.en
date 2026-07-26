@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7753203",
+      "title": "WikiData Q-item: Q7753203",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7753203"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "national museum dedicated to toys and play located in Rochester, New York, United States"
+    },
+    "descriptions": {
+      "en": "national museum dedicated to toys and play located in Rochester, New York, United States"
+    },
+    "domain": "general",
+    "id": "Q7753203",
+    "labels": {
+      "en": "The National Museum of Play"
+    },
+    "properties": {
+      "coordinates": "Point(-77.601666666 43.1525)"
+    },
+    "type": "place"
+  }
+}

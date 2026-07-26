@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7707613",
+      "title": "WikiData Q-item: Q7707613",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7707613"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "hall of Fame for Cowboys"
+    },
+    "descriptions": {
+      "en": "hall of Fame for Cowboys"
+    },
+    "domain": "general",
+    "id": "Q7707613",
+    "labels": {
+      "en": "Texas Cowboy Hall of Fame"
+    },
+    "properties": {
+      "coordinates": "Point(-97.3468 32.7886)"
+    },
+    "type": "place"
+  }
+}

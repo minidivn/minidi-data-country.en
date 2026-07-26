@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28164",
+      "title": "WikiData Q-item: Q28164",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28164"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "city in Morton County, North Dakota, United States"
+    },
+    "descriptions": {
+      "en": "city in Morton County, North Dakota, United States"
+    },
+    "domain": "general",
+    "id": "Q28164",
+    "labels": {
+      "en": "Glen Ullin"
+    },
+    "properties": {
+      "coordinates": "Point(-101.830833333 46.814444444)"
+    },
+    "type": "place"
+  }
+}

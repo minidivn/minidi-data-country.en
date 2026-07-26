@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4145",
+      "title": "WikiData Q-item: Q4145",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4145"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American stand-up comedian, radio personality, and actor (1969-2011)"
+    },
+    "descriptions": {
+      "en": "American stand-up comedian, radio personality, and actor (1969-2011)"
+    },
+    "domain": "general",
+    "id": "Q4145",
+    "labels": {
+      "en": "Patrice O'Neal"
+    },
+    "properties": {
+      "birth_date": "1969-12-07T00:00:00Z",
+      "death_date": "2011-11-29T00:00:00Z",
+      "occupation": "actor"
+    },
+    "type": "person"
+  }
+}

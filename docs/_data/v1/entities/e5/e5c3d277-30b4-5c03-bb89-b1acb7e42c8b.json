@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q11812",
+      "title": "WikiData Q-item: Q11812",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q11812"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Founding Father, U.S. president from 1801 to 1809 (1743–1826)"
+    },
+    "descriptions": {
+      "en": "Founding Father, U.S. president from 1801 to 1809 (1743–1826)"
+    },
+    "domain": "general",
+    "id": "Q11812",
+    "labels": {
+      "en": "Thomas Jefferson"
+    },
+    "properties": {
+      "birth_date": "1743-04-13T00:00:00Z",
+      "death_date": "1826-07-04T00:00:00Z",
+      "occupation": "politician"
+    },
+    "type": "person"
+  }
+}

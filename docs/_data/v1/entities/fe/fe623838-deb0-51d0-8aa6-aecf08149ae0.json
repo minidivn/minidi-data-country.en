@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7766508",
+      "title": "WikiData Q-item: Q7766508",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7766508"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "historic house museum and gardens in North Andover, Massachusetts"
+    },
+    "descriptions": {
+      "en": "historic house museum and gardens in North Andover, Massachusetts"
+    },
+    "domain": "general",
+    "id": "Q7766508",
+    "labels": {
+      "en": "The Stevens-Coolidge Place"
+    },
+    "properties": {
+      "coordinates": "Point(-71.1181 42.6814)"
+    },
+    "type": "place"
+  }
+}

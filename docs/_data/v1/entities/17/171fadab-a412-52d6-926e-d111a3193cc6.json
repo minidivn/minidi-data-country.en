@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4212",
+      "title": "WikiData Q-item: Q4212",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4212"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American actor (1937–2021)"
+    },
+    "descriptions": {
+      "en": "American actor (1937–2021)"
+    },
+    "domain": "general",
+    "id": "Q4212",
+    "labels": {
+      "en": "Ned Beatty"
+    },
+    "properties": {
+      "birth_date": "1937-07-06T00:00:00Z",
+      "death_date": "2021-06-13T00:00:00Z",
+      "occupation": "actor"
+    },
+    "type": "person"
+  }
+}

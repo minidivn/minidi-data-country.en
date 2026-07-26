@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4871763",
+      "title": "WikiData Q-item: Q4871763",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4871763"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1782 battle during the unification of Hawaiʻi"
+    },
+    "descriptions": {
+      "en": "1782 battle during the unification of Hawaiʻi"
+    },
+    "domain": "general",
+    "id": "Q4871763",
+    "labels": {
+      "en": "Battle of Mokuohai"
+    },
+    "properties": {
+      "point_in_time": "1782-07-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

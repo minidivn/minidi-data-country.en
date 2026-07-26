@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q106878129",
+      "title": "WikiData Q-item: Q106878129",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q106878129"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "papers pertaining to the pertaining to the history of the city of Los Angeles, California missions, and Southern California ranchos and adobes.(held at UCLA)"
+    },
+    "descriptions": {
+      "en": "papers pertaining to the pertaining to the history of the city of Los Angeles, California missions, and Southern California ranchos and adobes.(held at UCLA)"
+    },
+    "domain": "general",
+    "id": "Q106878129",
+    "labels": {
+      "en": "Ana Bégué de Packman papers"
+    },
+    "properties": {
+      "end_time": "1960-01-01T00:00:00Z",
+      "start_time": "1870-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

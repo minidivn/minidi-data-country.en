@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q12898",
+      "title": "WikiData Q-item: Q12898",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q12898"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "professor of the University of Hartford, esperantist"
+    },
+    "descriptions": {
+      "en": "professor of the University of Hartford, esperantist"
+    },
+    "domain": "general",
+    "id": "Q12898",
+    "labels": {
+      "en": "Humphrey Tonkin"
+    },
+    "properties": {
+      "birth_date": "1939-12-02T00:00:00Z",
+      "occupation": "esperantologist"
+    },
+    "type": "person"
+  }
+}

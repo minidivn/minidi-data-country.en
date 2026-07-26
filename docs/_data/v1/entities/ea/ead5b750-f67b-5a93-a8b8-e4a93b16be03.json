@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6801571",
+      "title": "WikiData Q-item: Q6801571",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6801571"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "building in California, United States"
+    },
+    "descriptions": {
+      "en": "building in California, United States"
+    },
+    "domain": "general",
+    "id": "Q6801571",
+    "labels": {
+      "en": "McHenry Mansion"
+    },
+    "properties": {
+      "coordinates": "Point(-120.994388888 37.643555555)"
+    },
+    "type": "place"
+  }
+}

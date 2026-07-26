@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4235",
+      "title": "WikiData Q-item: Q4235",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4235"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American singer, actress, and television personality (born 1992)"
+    },
+    "descriptions": {
+      "en": "American singer, actress, and television personality (born 1992)"
+    },
+    "domain": "general",
+    "id": "Q4235",
+    "labels": {
+      "en": "Miley Cyrus"
+    },
+    "properties": {
+      "birth_date": "1992-11-23T00:00:00Z",
+      "occupation": "film actor"
+    },
+    "type": "person"
+  }
+}

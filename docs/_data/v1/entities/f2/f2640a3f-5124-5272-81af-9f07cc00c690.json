@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q8027",
+      "title": "WikiData Q-item: Q8027",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q8027"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American Baptist minister and civil rights leader (1929–1968)"
+    },
+    "descriptions": {
+      "en": "American Baptist minister and civil rights leader (1929–1968)"
+    },
+    "domain": "general",
+    "id": "Q8027",
+    "labels": {
+      "en": "Martin Luther King Jr."
+    },
+    "properties": {
+      "birth_date": "1929-01-15T00:00:00Z",
+      "death_date": "1968-04-04T00:00:00Z",
+      "occupation": "writer"
+    },
+    "type": "person"
+  }
+}

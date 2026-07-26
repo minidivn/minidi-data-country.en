@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q49322338",
+      "title": "WikiData Q-item: Q49322338",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q49322338"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Beach in Hawaii County, Hawaii, USA"
+    },
+    "descriptions": {
+      "en": "Beach in Hawaii County, Hawaii, USA"
+    },
+    "domain": "general",
+    "id": "Q49322338",
+    "labels": {
+      "en": "ʻŌhaiʻula Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-155.82234 20.02328)"
+    },
+    "type": "place"
+  }
+}

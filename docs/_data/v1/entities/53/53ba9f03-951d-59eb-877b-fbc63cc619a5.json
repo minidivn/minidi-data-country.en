@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28292",
+      "title": "WikiData Q-item: Q28292",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28292"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Benson County is a county in the U.S. state of North Dakota. As of the 2020 census, the population was 5,964, and was estimated to be 5,759 in 2025. The county seat is Minnewaukan."
+    },
+    "descriptions": {
+      "en": "county in North Dakota, United States"
+    },
+    "domain": "general",
+    "id": "Q28292",
+    "labels": {
+      "en": "Benson County"
+    },
+    "properties": {
+      "coordinates": "Point(-99.36 48.07)",
+      "summary": "Benson County is a county in the U.S. state of North Dakota. As of the 2020 census, the population was 5,964, and was estimated to be 5,759 in 2025. The county seat is Minnewaukan."
+    },
+    "type": "place"
+  }
+}

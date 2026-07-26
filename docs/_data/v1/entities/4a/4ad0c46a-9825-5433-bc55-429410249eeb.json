@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q9640",
+      "title": "WikiData Q-item: Q9640",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q9640"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "president of the United States from 1963 to 1969 (1908–1973)"
+    },
+    "descriptions": {
+      "en": "president of the United States from 1963 to 1969 (1908–1973)"
+    },
+    "domain": "general",
+    "id": "Q9640",
+    "labels": {
+      "en": "Lyndon B. Johnson"
+    },
+    "properties": {
+      "birth_date": "1908-08-27T00:00:00Z",
+      "death_date": "1973-01-22T00:00:00Z",
+      "occupation": "statesperson"
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6773949",
+      "title": "WikiData Q-item: Q6773949",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6773949"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "nature center in Middle River, Maryland, US"
+    },
+    "descriptions": {
+      "en": "nature center in Middle River, Maryland, US"
+    },
+    "domain": "general",
+    "id": "Q6773949",
+    "labels": {
+      "en": "Marshy Point Nature Center"
+    },
+    "properties": {
+      "coordinates": "Point(-76.3788 39.3505)"
+    },
+    "type": "place"
+  }
+}

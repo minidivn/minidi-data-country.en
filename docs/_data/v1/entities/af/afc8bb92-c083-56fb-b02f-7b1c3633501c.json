@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5319802",
+      "title": "WikiData Q-item: Q5319802",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5319802"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "US periodical"
+    },
+    "descriptions": {
+      "en": "US periodical"
+    },
+    "domain": "general",
+    "id": "Q5319802",
+    "labels": {
+      "en": "Dziennik Związkowy"
+    },
+    "properties": {
+      "start_time": "1908-01-15T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

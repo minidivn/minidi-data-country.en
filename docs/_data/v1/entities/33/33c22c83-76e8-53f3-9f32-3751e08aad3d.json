@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q9588",
+      "title": "WikiData Q-item: Q9588",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q9588"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "president of the United States from 1969 to 1974 (1913–1994)"
+    },
+    "descriptions": {
+      "en": "president of the United States from 1969 to 1974 (1913–1994)"
+    },
+    "domain": "general",
+    "id": "Q9588",
+    "labels": {
+      "en": "Richard Nixon"
+    },
+    "properties": {
+      "birth_date": "1913-01-09T00:00:00Z",
+      "death_date": "1994-04-22T00:00:00Z",
+      "occupation": "politician"
+    },
+    "type": "person"
+  }
+}

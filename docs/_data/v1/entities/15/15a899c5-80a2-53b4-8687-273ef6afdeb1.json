@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q23009748",
+      "title": "WikiData Q-item: Q23009748",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q23009748"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "fire which destroyed much of downtown Boston, Massachusetts"
+    },
+    "descriptions": {
+      "en": "fire which destroyed much of downtown Boston, Massachusetts"
+    },
+    "domain": "general",
+    "id": "Q23009748",
+    "labels": {
+      "en": "Great Boston Fire of 1760"
+    },
+    "properties": {
+      "point_in_time": "1760-03-20T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

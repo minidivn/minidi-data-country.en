@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28249",
+      "title": "WikiData Q-item: Q28249",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28249"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Concord () is the capital city of the U.S. state of New Hampshire and the seat of Merrimack County. As of the 2020 United States census the population was 43,976, making it the 3rd most populous city in New Hampshire after Manchester and Nashua. The area was first settled by Europeans in 1659. On January 17, 1725, the Province of Massachusetts Bay granted the Concord area as the Plantation of Penacook, and it was incorporated on February 9, 1734, as the Town of Rumford. Governor Benning Wentworth gave the city its current name in 1765 following a boundary dispute with the neighboring town of Bow; the name was meant to signify the new harmony between the two towns. In 1808, Concord was named the official seat of state government, and the State House was completed in 1819; it remains the oldest U.S."
+    },
+    "descriptions": {
+      "en": "capital city of the U.S. state of New Hampshire and county seat of Merrimack County"
+    },
+    "domain": "general",
+    "id": "Q28249",
+    "labels": {
+      "en": "Concord"
+    },
+    "properties": {
+      "coordinates": "Point(-71.538055555 43.206666666)",
+      "summary": "Concord () is the capital city of the U.S. state of New Hampshire and the seat of Merrimack County. As of the 2020 United States census the population was 43,976, making it the 3rd most populous city in New Hampshire after Manchester and Nashua. The area was first settled by Europeans in 1659. On January 17, 1725, the Province of Massachusetts Bay granted the Concord area as the Plantation of Penacook, and it was incorporated on February 9, 1734, as the Town of Rumford. Governor Benning Wentworth gave the city its current name in 1765 following a boundary dispute with the neighboring town of Bow; the name was meant to signify the new harmony between the two towns. In 1808, Concord was named the official seat of state government, and the State House was completed in 1819; it remains the oldest U.S."
+    },
+    "type": "place"
+  }
+}

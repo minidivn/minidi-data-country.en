@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6821052",
+      "title": "WikiData Q-item: Q6821052",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6821052"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "performing and visual arts complex in Mesa, Arizona, United States"
+    },
+    "descriptions": {
+      "en": "performing and visual arts complex in Mesa, Arizona, United States"
+    },
+    "domain": "general",
+    "id": "Q6821052",
+    "labels": {
+      "en": "Mesa Arts Center"
+    },
+    "properties": {
+      "coordinates": "Point(-111.83 33.414)"
+    },
+    "type": "place"
+  }
+}

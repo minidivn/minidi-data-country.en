@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q130251347",
+      "title": "WikiData Q-item: Q130251347",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q130251347"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "World's second longest-lasting light bulb"
+    },
+    "descriptions": {
+      "en": "World's second longest-lasting light bulb"
+    },
+    "domain": "general",
+    "id": "Q130251347",
+    "labels": {
+      "en": "Palace Theater Light"
+    },
+    "properties": {
+      "start_time": "1908-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q430053",
+      "title": "WikiData Q-item: Q430053",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q430053"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "battles and negotiations between the US and the Lakota Sioux and Northern Cheyenne between 1876–1877"
+    },
+    "descriptions": {
+      "en": "battles and negotiations between the US and the Lakota Sioux and Northern Cheyenne between 1876–1877"
+    },
+    "domain": "general",
+    "id": "Q430053",
+    "labels": {
+      "en": "Great Sioux War of 1876"
+    },
+    "properties": {
+      "end_time": "1877-01-01T00:00:00Z",
+      "start_time": "1876-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

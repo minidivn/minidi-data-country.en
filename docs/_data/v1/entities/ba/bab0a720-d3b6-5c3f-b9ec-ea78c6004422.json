@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5671855",
+      "title": "WikiData Q-item: Q5671855",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5671855"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "archive, library, and museum at the University of Texas at Austin"
+    },
+    "descriptions": {
+      "en": "archive, library, and museum at the University of Texas at Austin"
+    },
+    "domain": "general",
+    "id": "Q5671855",
+    "labels": {
+      "en": "Harry Ransom Center"
+    },
+    "properties": {
+      "coordinates": "Point(-97.741076 30.284313)"
+    },
+    "type": "place"
+  }
+}

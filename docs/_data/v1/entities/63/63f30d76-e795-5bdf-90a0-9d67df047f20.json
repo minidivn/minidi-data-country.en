@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4870776",
+      "title": "WikiData Q-item: Q4870776",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4870776"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1780 military engagement of the American Revolution"
+    },
+    "descriptions": {
+      "en": "1780 military engagement of the American Revolution"
+    },
+    "domain": "general",
+    "id": "Q4870776",
+    "labels": {
+      "en": "Battle of Colson's Mill"
+    },
+    "properties": {
+      "point_in_time": "1780-07-21T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

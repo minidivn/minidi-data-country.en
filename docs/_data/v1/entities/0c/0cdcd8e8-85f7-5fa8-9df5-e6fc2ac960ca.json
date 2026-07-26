@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q129263988",
+      "title": "WikiData Q-item: Q129263988",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q129263988"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1819 treaty between the United States and representatives of the Kickapoo people"
+    },
+    "descriptions": {
+      "en": "1819 treaty between the United States and representatives of the Kickapoo people"
+    },
+    "domain": "general",
+    "id": "Q129263988",
+    "labels": {
+      "en": "Treaty with the Kickapoo, 1819"
+    },
+    "properties": {
+      "point_in_time": "1819-07-30T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

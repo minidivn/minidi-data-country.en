@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28237",
+      "title": "WikiData Q-item: Q28237",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28237"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Lansing () is the capital city of the U.S. state of Michigan. The most populous city in Ingham County, parts of the city extend into Eaton County and north into Clinton County. It is the sixth-most populous city in Michigan with a population of 112,644 at the 2020 census. The Lansing–East Lansing metropolitan area has an estimated 473,000 residents and is the third largest in the state after metropolitan Detroit and Grand Rapids. Lansing benefits from its central location within Mid-Michigan and serves as a regional hub for government, education, insurance and commerce. Founded in 1835 and designated as Michigan's state capital in 1847, Lansing was selected for its more central location after concerns about Detroit's vulnerability to British attack in the War of 1812. The city's history is closely tied to the rise of industry in Michigan."
+    },
+    "descriptions": {
+      "en": "capital city of the U.S. state of Michigan, located in Ingham, Eaton, and Clinton counties"
+    },
+    "domain": "general",
+    "id": "Q28237",
+    "labels": {
+      "en": "Lansing"
+    },
+    "properties": {
+      "coordinates": "Point(-84.5467 42.7335)",
+      "summary": "Lansing () is the capital city of the U.S. state of Michigan. The most populous city in Ingham County, parts of the city extend into Eaton County and north into Clinton County. It is the sixth-most populous city in Michigan with a population of 112,644 at the 2020 census. The Lansing–East Lansing metropolitan area has an estimated 473,000 residents and is the third largest in the state after metropolitan Detroit and Grand Rapids. Lansing benefits from its central location within Mid-Michigan and serves as a regional hub for government, education, insurance and commerce. Founded in 1835 and designated as Michigan's state capital in 1847, Lansing was selected for its more central location after concerns about Detroit's vulnerability to British attack in the War of 1812. The city's history is closely tied to the rise of industry in Michigan."
+    },
+    "type": "place"
+  }
+}

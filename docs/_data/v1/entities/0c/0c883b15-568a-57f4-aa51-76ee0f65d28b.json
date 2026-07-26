@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6868364",
+      "title": "WikiData Q-item: Q6868364",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6868364"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Military history museum in Minnesota, United States"
+    },
+    "descriptions": {
+      "en": "Military history museum in Minnesota, United States"
+    },
+    "domain": "general",
+    "id": "Q6868364",
+    "labels": {
+      "en": "Minnesota Military & Veterans Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-94.3477 46.0807)"
+    },
+    "type": "place"
+  }
+}

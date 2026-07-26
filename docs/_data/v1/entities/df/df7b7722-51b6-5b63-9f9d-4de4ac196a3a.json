@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q91",
+      "title": "WikiData Q-item: Q91",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q91"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "president of the United States from 1861 to 1865 (1809-1865)"
+    },
+    "descriptions": {
+      "en": "president of the United States from 1861 to 1865 (1809-1865)"
+    },
+    "domain": "general",
+    "id": "Q91",
+    "labels": {
+      "en": "Abraham Lincoln"
+    },
+    "properties": {
+      "birth_date": "1809-02-12T00:00:00Z",
+      "death_date": "1865-04-15T00:00:00Z",
+      "occupation": "statesperson"
+    },
+    "type": "person"
+  }
+}

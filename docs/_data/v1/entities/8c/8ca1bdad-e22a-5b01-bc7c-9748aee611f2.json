@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7707496",
+      "title": "WikiData Q-item: Q7707496",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7707496"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "aviation museum in Amarillo, Texas"
+    },
+    "descriptions": {
+      "en": "aviation museum in Amarillo, Texas"
+    },
+    "domain": "general",
+    "id": "Q7707496",
+    "labels": {
+      "en": "Texas Air & Space Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-101.7 35.216)"
+    },
+    "type": "place"
+  }
+}

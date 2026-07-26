@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1811438",
+      "title": "WikiData Q-item: Q1811438",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1811438"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1780 battle of the American Revolutionary War"
+    },
+    "descriptions": {
+      "en": "1780 battle of the American Revolutionary War"
+    },
+    "domain": "general",
+    "id": "Q1811438",
+    "labels": {
+      "en": "Battle of Waxhaws"
+    },
+    "properties": {
+      "point_in_time": "1780-05-29T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

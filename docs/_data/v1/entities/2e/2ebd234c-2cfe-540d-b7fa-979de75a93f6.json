@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q692137",
+      "title": "WikiData Q-item: Q692137",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q692137"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1776 action during American Revolutionary War"
+    },
+    "descriptions": {
+      "en": "1776 action during American Revolutionary War"
+    },
+    "domain": "general",
+    "id": "Q692137",
+    "labels": {
+      "en": "Landing at Kip's Bay"
+    },
+    "properties": {
+      "point_in_time": "1776-09-15T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

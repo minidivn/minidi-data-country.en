@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q109538021",
+      "title": "WikiData Q-item: Q109538021",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q109538021"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "US election"
+    },
+    "descriptions": {
+      "en": "US election"
+    },
+    "domain": "general",
+    "id": "Q109538021",
+    "labels": {
+      "en": "1820 Ohio gubernatorial election"
+    },
+    "properties": {
+      "point_in_time": "1820-10-10T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

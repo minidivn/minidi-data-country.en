@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q112128752",
+      "title": "WikiData Q-item: Q112128752",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q112128752"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "outbreak of smallpox in Baltimore"
+    },
+    "descriptions": {
+      "en": "outbreak of smallpox in Baltimore"
+    },
+    "domain": "general",
+    "id": "Q112128752",
+    "labels": {
+      "en": "1882-1883 Baltimore smallpox epidemic"
+    },
+    "properties": {
+      "end_time": "1883-01-01T00:00:00Z",
+      "start_time": "1882-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

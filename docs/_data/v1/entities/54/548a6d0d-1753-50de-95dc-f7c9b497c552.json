@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7708190",
+      "title": "WikiData Q-item: Q7708190",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7708190"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "history museum in Wyoming, United States"
+    },
+    "descriptions": {
+      "en": "history museum in Wyoming, United States"
+    },
+    "domain": "general",
+    "id": "Q7708190",
+    "labels": {
+      "en": "Texas Trail Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-104.07 41.1819)"
+    },
+    "type": "place"
+  }
+}

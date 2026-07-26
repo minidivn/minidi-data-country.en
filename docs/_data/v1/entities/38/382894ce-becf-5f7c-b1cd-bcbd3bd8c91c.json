@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6978849",
+      "title": "WikiData Q-item: Q6978849",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6978849"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American non-profit organization that honors exceptional school teachers"
+    },
+    "descriptions": {
+      "en": "American non-profit organization that honors exceptional school teachers"
+    },
+    "domain": "general",
+    "id": "Q6978849",
+    "labels": {
+      "en": "National Teachers Hall of Fame"
+    },
+    "properties": {
+      "coordinates": "Point(-96.180694444 38.417694444)"
+    },
+    "type": "place"
+  }
+}

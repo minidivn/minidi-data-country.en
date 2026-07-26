@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1435573",
+      "title": "WikiData Q-item: Q1435573",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1435573"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "research expedition in the United States in 1869"
+    },
+    "descriptions": {
+      "en": "research expedition in the United States in 1869"
+    },
+    "domain": "general",
+    "id": "Q1435573",
+    "labels": {
+      "en": "Cook–Folsom–Peterson Expedition"
+    },
+    "properties": {
+      "end_time": "1869-10-11T00:00:00Z",
+      "start_time": "1869-09-06T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

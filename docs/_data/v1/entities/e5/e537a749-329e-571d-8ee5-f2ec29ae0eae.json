@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q862751",
+      "title": "WikiData Q-item: Q862751",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q862751"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1776 first major battle of the American Revolutionary War to take place after the Declaration of Independence"
+    },
+    "descriptions": {
+      "en": "1776 first major battle of the American Revolutionary War to take place after the Declaration of Independence"
+    },
+    "domain": "general",
+    "id": "Q862751",
+    "labels": {
+      "en": "Battle of Long Island"
+    },
+    "properties": {
+      "point_in_time": "1776-08-27T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

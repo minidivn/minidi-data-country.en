@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q49323010",
+      "title": "WikiData Q-item: Q49323010",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q49323010"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "beach in Puerto Rico"
+    },
+    "descriptions": {
+      "en": "beach in Puerto Rico"
+    },
+    "domain": "general",
+    "id": "Q49323010",
+    "labels": {
+      "en": "Playa de las Tres Palmitas"
+    },
+    "properties": {
+      "coordinates": "Point(-65.94 18.447222222)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4872493",
+      "title": "WikiData Q-item: Q4872493",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4872493"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1755 battle between Cherokee and Chickasaw forces in present-day Georgia, United States"
+    },
+    "descriptions": {
+      "en": "1755 battle between Cherokee and Chickasaw forces in present-day Georgia, United States"
+    },
+    "domain": "general",
+    "id": "Q4872493",
+    "labels": {
+      "en": "Battle of Taliwa"
+    },
+    "properties": {
+      "point_in_time": "1755-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

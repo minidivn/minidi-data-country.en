@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q14039",
+      "title": "WikiData Q-item: Q14039",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q14039"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Moldovan musician (1934–2006)"
+    },
+    "descriptions": {
+      "en": "Moldovan musician (1934–2006)"
+    },
+    "domain": "general",
+    "id": "Q14039",
+    "labels": {
+      "en": "German Goldenshteyn"
+    },
+    "properties": {
+      "birth_date": "1934-09-02T00:00:00Z",
+      "death_date": "2006-06-10T00:00:00Z",
+      "occupation": "clarinetist"
+    },
+    "type": "person"
+  }
+}

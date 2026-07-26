@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7440",
+      "title": "WikiData Q-item: Q7440",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7440"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American scientist and inventor (1916-2013)"
+    },
+    "descriptions": {
+      "en": "American scientist and inventor (1916-2013)"
+    },
+    "domain": "general",
+    "id": "Q7440",
+    "labels": {
+      "en": "Ruth R. Benerito"
+    },
+    "properties": {
+      "birth_date": "1916-01-12T00:00:00Z",
+      "death_date": "2013-10-05T00:00:00Z",
+      "occupation": "inventor"
+    },
+    "type": "person"
+  }
+}

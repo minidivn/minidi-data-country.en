@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q181",
+      "title": "WikiData Q-item: Q181",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q181"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "co-founder of Wikipedia (born 1966)"
+    },
+    "descriptions": {
+      "en": "co-founder of Wikipedia (born 1966)"
+    },
+    "domain": "general",
+    "id": "Q181",
+    "labels": {
+      "en": "Jimmy Wales"
+    },
+    "properties": {
+      "birth_date": "1966-08-07T00:00:00Z",
+      "occupation": "merchant"
+    },
+    "type": "person"
+  }
+}

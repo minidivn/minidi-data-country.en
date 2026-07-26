@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4639974",
+      "title": "WikiData Q-item: Q4639974",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4639974"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1887-1889 U.S. Congress"
+    },
+    "descriptions": {
+      "en": "1887-1889 U.S. Congress"
+    },
+    "domain": "general",
+    "id": "Q4639974",
+    "labels": {
+      "en": "50th United States Congress"
+    },
+    "properties": {
+      "end_time": "1889-03-04T00:00:00Z",
+      "start_time": "1887-03-04T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q557",
+      "title": "WikiData Q-item: Q557",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q557"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American singer, songwriter, author and poet (born 1946)"
+    },
+    "descriptions": {
+      "en": "American singer, songwriter, author and poet (born 1946)"
+    },
+    "domain": "general",
+    "id": "Q557",
+    "labels": {
+      "en": "Patti Smith"
+    },
+    "properties": {
+      "birth_date": "1946-12-30T00:00:00Z",
+      "occupation": "singer"
+    },
+    "type": "person"
+  }
+}

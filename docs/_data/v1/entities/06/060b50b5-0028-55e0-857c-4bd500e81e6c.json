@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q365877",
+      "title": "WikiData Q-item: Q365877",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q365877"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "skyscraper in Chicago"
+    },
+    "descriptions": {
+      "en": "skyscraper in Chicago"
+    },
+    "domain": "general",
+    "id": "Q365877",
+    "labels": {
+      "en": "Skybridge"
+    },
+    "properties": {
+      "coordinates": "Point(-87.646944444 41.8825)"
+    },
+    "type": "place"
+  }
+}

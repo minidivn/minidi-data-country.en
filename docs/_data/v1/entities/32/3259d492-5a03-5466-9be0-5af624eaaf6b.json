@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6915797",
+      "title": "WikiData Q-item: Q6915797",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6915797"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in North Carolina"
+    },
+    "descriptions": {
+      "en": "museum in North Carolina"
+    },
+    "domain": "general",
+    "id": "Q6915797",
+    "labels": {
+      "en": "Moses H. Cone Memorial Park"
+    },
+    "properties": {
+      "coordinates": "Point(-81.6923 36.1496)"
+    },
+    "type": "place"
+  }
+}

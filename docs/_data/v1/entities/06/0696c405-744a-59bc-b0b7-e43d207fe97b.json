@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7914329",
+      "title": "WikiData Q-item: Q7914329",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7914329"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "4th capitol of Illinois"
+    },
+    "descriptions": {
+      "en": "4th capitol of Illinois"
+    },
+    "domain": "general",
+    "id": "Q7914329",
+    "labels": {
+      "en": "Vandalia State House State Historic Site"
+    },
+    "properties": {
+      "coordinates": "Point(-89.093889 38.961111)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q579159",
+      "title": "WikiData Q-item: Q579159",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q579159"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "major popular reaction to the removal of gunpowder from a magazine by British soldiers under orders from General Thomas Gage, royal governor of the Province of Massachusetts Bay, on September 1, 1774"
+    },
+    "descriptions": {
+      "en": "major popular reaction to the removal of gunpowder from a magazine by British soldiers under orders from General Thomas Gage, royal governor of the Province of Massachusetts Bay, on September 1, 1774"
+    },
+    "domain": "general",
+    "id": "Q579159",
+    "labels": {
+      "en": "Powder Alarm"
+    },
+    "properties": {
+      "point_in_time": "1774-09-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

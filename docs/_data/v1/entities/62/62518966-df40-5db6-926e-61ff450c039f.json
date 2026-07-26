@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5483052",
+      "title": "WikiData Q-item: Q5483052",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5483052"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Alleged skirmish between Tarleton's Raiders and Peter Francisco during the American Revolutionary War"
+    },
+    "descriptions": {
+      "en": "Alleged skirmish between Tarleton's Raiders and Peter Francisco during the American Revolutionary War"
+    },
+    "domain": "general",
+    "id": "Q5483052",
+    "labels": {
+      "en": "Francisco's Fight"
+    },
+    "properties": {
+      "point_in_time": "1781-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

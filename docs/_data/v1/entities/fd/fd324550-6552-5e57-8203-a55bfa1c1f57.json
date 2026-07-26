@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5316537",
+      "title": "WikiData Q-item: Q5316537",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5316537"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "museum in Omaha, Nebraska, USA"
+    },
+    "descriptions": {
+      "en": "museum in Omaha, Nebraska, USA"
+    },
+    "domain": "general",
+    "id": "Q5316537",
+    "labels": {
+      "en": "Durham Museum"
+    },
+    "properties": {
+      "coordinates": "Point(-95.928379 41.251462)"
+    },
+    "type": "place"
+  }
+}

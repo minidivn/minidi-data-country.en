@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7534",
+      "title": "WikiData Q-item: Q7534",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7534"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American information scientist (born 1931)"
+    },
+    "descriptions": {
+      "en": "American information scientist (born 1931)"
+    },
+    "domain": "general",
+    "id": "Q7534",
+    "labels": {
+      "en": "Elizabeth J. Feinler"
+    },
+    "properties": {
+      "birth_date": "1931-03-02T00:00:00Z",
+      "occupation": "computer scientist"
+    },
+    "type": "person"
+  }
+}

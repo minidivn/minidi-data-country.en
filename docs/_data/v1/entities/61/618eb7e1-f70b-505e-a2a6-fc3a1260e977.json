@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q49324654",
+      "title": "WikiData Q-item: Q49324654",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q49324654"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "beach in Santa Cruz County, California, United States"
+    },
+    "descriptions": {
+      "en": "beach in Santa Cruz County, California, United States"
+    },
+    "domain": "general",
+    "id": "Q49324654",
+    "labels": {
+      "en": "Scott Creek Beach"
+    },
+    "properties": {
+      "coordinates": "Point(-122.23 37.040277777)"
+    },
+    "type": "place"
+  }
+}

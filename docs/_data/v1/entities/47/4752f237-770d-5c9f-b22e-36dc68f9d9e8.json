@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7016712",
+      "title": "WikiData Q-item: Q7016712",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7016712"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "original buildings at the New Jersey airport, listed on the National Register of Historic Places"
+    },
+    "descriptions": {
+      "en": "original buildings at the New Jersey airport, listed on the National Register of Historic Places"
+    },
+    "domain": "general",
+    "id": "Q7016712",
+    "labels": {
+      "en": "Newark Metropolitan Airport Buildings"
+    },
+    "properties": {
+      "coordinates": "Point(-74.1625 40.7064)"
+    },
+    "type": "place"
+  }
+}

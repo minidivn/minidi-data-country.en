@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1689",
+      "title": "WikiData Q-item: Q1689",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1689"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Dominican track and field athlete"
+    },
+    "descriptions": {
+      "en": "Dominican track and field athlete"
+    },
+    "domain": "general",
+    "id": "Q1689",
+    "labels": {
+      "en": "Félix Sánchez"
+    },
+    "properties": {
+      "birth_date": "1977-08-30T00:00:00Z",
+      "occupation": "hurdler"
+    },
+    "type": "person"
+  }
+}
