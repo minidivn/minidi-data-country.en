@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "American astrophysicist, cosmologist and author (1934–1996)"
+      "markdown": "Carl Edward Sagan (; SAY-gən; November 9, 1934 – December 20, 1996) was an American astronomer, planetary scientist and science communicator. Initially an assistant professor at Harvard, Sagan later moved to Cornell, where he was the David Duncan Professor of Astronomy and Space Sciences and directed the Laboratory for Planetary Studies. He played an active role in the Mariner, Viking and Voyager programs. He published more than 600 scientific papers and articles and several popular science books, starting with The Cosmic Connection. He won the Pulitzer Prize for General Nonfiction for The Dragons of Eden. He is widely regarded as one of the most influential science communicators of his generation. He co-wrote and narrated the 1980 documentary series Cosmos: A Personal Voyage, which has been seen by at least 500 million people in 60 countries and won two Emmy Awards and a Peabody Award."
     },
     "descriptions": {
       "en": "American astrophysicist, cosmologist and author (1934–1996)"
@@ -38,7 +38,8 @@
     "properties": {
       "birth_date": "1934-11-09T00:00:00Z",
       "death_date": "1996-12-20T00:00:00Z",
-      "occupation": "astronomer"
+      "occupation": "astronomer",
+      "summary": "Carl Edward Sagan (; SAY-gən; November 9, 1934 – December 20, 1996) was an American astronomer, planetary scientist and science communicator. Initially an assistant professor at Harvard, Sagan later moved to Cornell, where he was the David Duncan Professor of Astronomy and Space Sciences and directed the Laboratory for Planetary Studies. He played an active role in the Mariner, Viking and Voyager programs. He published more than 600 scientific papers and articles and several popular science books, starting with The Cosmic Connection. He won the Pulitzer Prize for General Nonfiction for The Dragons of Eden. He is widely regarded as one of the most influential science communicators of his generation. He co-wrote and narrated the 1980 documentary series Cosmos: A Personal Voyage, which has been seen by at least 500 million people in 60 countries and won two Emmy Awards and a Peabody Award."
     },
     "type": "person"
   }

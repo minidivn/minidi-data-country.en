@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5664050",
+      "title": "WikiData Q-item: Q5664050",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5664050"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "listed on the National Register of Historic Places"
+    },
+    "descriptions": {
+      "en": "listed on the National Register of Historic Places"
+    },
+    "domain": "general",
+    "id": "Q5664050",
+    "labels": {
+      "en": "Harriet Beecher Stowe House"
+    },
+    "properties": {
+      "coordinates": "Point(-72.700781 41.766983)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q10062",
+      "title": "WikiData Q-item: Q10062",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q10062"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American softball coach and former player"
+    },
+    "descriptions": {
+      "en": "American softball coach and former player"
+    },
+    "domain": "general",
+    "id": "Q10062",
+    "labels": {
+      "en": "Laura Berg"
+    },
+    "properties": {
+      "birth_date": "1975-01-06T00:00:00Z",
+      "occupation": "softball coach"
+    },
+    "type": "person"
+  }
+}

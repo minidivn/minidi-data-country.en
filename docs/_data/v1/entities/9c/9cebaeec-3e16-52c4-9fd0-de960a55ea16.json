@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7096997",
+      "title": "WikiData Q-item: Q7096997",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7096997"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "post-World War II campaign by the Congress of Industrial Organizations"
+    },
+    "descriptions": {
+      "en": "post-World War II campaign by the Congress of Industrial Organizations"
+    },
+    "domain": "general",
+    "id": "Q7096997",
+    "labels": {
+      "en": "Operation Dixie"
+    },
+    "properties": {
+      "start_time": "1946-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

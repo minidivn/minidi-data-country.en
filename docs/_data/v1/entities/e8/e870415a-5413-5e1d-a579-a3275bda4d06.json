@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q10070",
+      "title": "WikiData Q-item: Q10070",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q10070"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American computer security researcher (born 1983)"
+    },
+    "descriptions": {
+      "en": "American computer security researcher (born 1983)"
+    },
+    "domain": "general",
+    "id": "Q10070",
+    "labels": {
+      "en": "Jacob Appelbaum"
+    },
+    "properties": {
+      "birth_date": "1983-04-01T00:00:00Z",
+      "occupation": "artist"
+    },
+    "type": "person"
+  }
+}

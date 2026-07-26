@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q86122264",
+      "title": "WikiData Q-item: Q86122264",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q86122264"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "closed Roman Catholic high school in Niagara County, New York, United States"
+    },
+    "descriptions": {
+      "en": "closed Roman Catholic high school in Niagara County, New York, United States"
+    },
+    "domain": "general",
+    "id": "Q86122264",
+    "labels": {
+      "en": "Bishop Duffy High School"
+    },
+    "properties": {
+      "start_time": "1946-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

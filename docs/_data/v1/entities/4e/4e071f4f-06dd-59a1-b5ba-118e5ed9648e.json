@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q30278182",
+      "title": "WikiData Q-item: Q30278182",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q30278182"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American art exhibition"
+    },
+    "descriptions": {
+      "en": "American art exhibition"
+    },
+    "domain": "general",
+    "id": "Q30278182",
+    "labels": {
+      "en": "Picasso Before 1907: Loan Exhibit for the Benefit of the Public Education Association"
+    },
+    "properties": {
+      "end_time": "1947-11-08T00:00:00Z",
+      "start_time": "1947-10-15T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

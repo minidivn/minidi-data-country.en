@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "American singer-songwriter (born 1941)"
+      "markdown": "Bob Dylan (legally Robert Dylan; born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. With an estimated 125 million records sold worldwide, he is one of the best-selling musicians. Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s, infusing it \"with the intellectualism of classic literature and poetry\". His lyrics incorporated political, social, and philosophical influences, defying pop music conventions and appealing to the burgeoning counterculture. Dylan was born in St. Louis County, Minnesota. He moved to New York City in 1961 to pursue a music career."
     },
     "descriptions": {
       "en": "American singer-songwriter (born 1941)"
@@ -37,7 +37,8 @@
     },
     "properties": {
       "birth_date": "1941-05-24T00:00:00Z",
-      "occupation": "author"
+      "occupation": "author",
+      "summary": "Bob Dylan (legally Robert Dylan; born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. With an estimated 125 million records sold worldwide, he is one of the best-selling musicians. Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s, infusing it \"with the intellectualism of classic literature and poetry\". His lyrics incorporated political, social, and philosophical influences, defying pop music conventions and appealing to the burgeoning counterculture. Dylan was born in St. Louis County, Minnesota. He moved to New York City in 1961 to pursue a music career."
     },
     "type": "person"
   }

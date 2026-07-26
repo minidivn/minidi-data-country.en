@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q30090100",
+      "title": "WikiData Q-item: Q30090100",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q30090100"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "American art exhibition"
+    },
+    "descriptions": {
+      "en": "American art exhibition"
+    },
+    "domain": "general",
+    "id": "Q30090100",
+    "labels": {
+      "en": "40 Masterpieces: A Loan Exhibition of Paintings from American Museums"
+    },
+    "properties": {
+      "end_time": "1947-11-10T00:00:00Z",
+      "start_time": "1947-10-06T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

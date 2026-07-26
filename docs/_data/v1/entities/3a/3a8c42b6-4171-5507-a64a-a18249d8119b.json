@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q959796",
+      "title": "WikiData Q-item: Q959796",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q959796"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "purported organization that appears in UFO conspiracy theories"
+    },
+    "descriptions": {
+      "en": "purported organization that appears in UFO conspiracy theories"
+    },
+    "domain": "general",
+    "id": "Q959796",
+    "labels": {
+      "en": "Majestic 12"
+    },
+    "properties": {
+      "start_time": "1947-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

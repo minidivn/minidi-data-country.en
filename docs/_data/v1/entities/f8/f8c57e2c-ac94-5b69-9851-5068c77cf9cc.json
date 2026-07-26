@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q110954673",
+      "title": "WikiData Q-item: Q110954673",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q110954673"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "September 240 November 17 1946 exhibition at Museum of Modern Art"
+    },
+    "descriptions": {
+      "en": "September 240 November 17 1946 exhibition at Museum of Modern Art"
+    },
+    "domain": "general",
+    "id": "Q110954673",
+    "labels": {
+      "en": "Recent Acquisitions in Painting and Sculpture"
+    },
+    "properties": {
+      "end_time": "1946-11-17T00:00:00Z",
+      "start_time": "1946-09-24T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

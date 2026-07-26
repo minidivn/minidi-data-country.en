@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q11107",
+      "title": "WikiData Q-item: Q11107",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q11107"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Sonia Maria Sotomayor ( , Spanish: [ˈsonja sotomaˈʝoɾ]; born June 25, 1954) is an American lawyer and jurist who serves as an associate justice of the Supreme Court of the United States. She was nominated by President Barack Obama on May 26, 2009, and has served since August 8, 2009. She is the third woman U.S. Supreme Court justice. Sotomayor was born in the Bronx, New York City, to Puerto Rican-born parents. Her father died when she was nine years old, and she was subsequently raised by her mother. She graduated with high honors from Princeton University in 1976 and received her Juris Doctor in 1979 from Yale Law School, where she was an editor of the Yale Law Journal. She worked as an assistant district attorney in New York for four and a half years before entering private practice in 1984."
+    },
+    "descriptions": {
+      "en": "US Supreme Court justice since 2009"
+    },
+    "domain": "general",
+    "id": "Q11107",
+    "labels": {
+      "en": "Sonia Sotomayor"
+    },
+    "properties": {
+      "birth_date": "1954-06-25T00:00:00Z",
+      "occupation": "lawyer",
+      "summary": "Sonia Maria Sotomayor ( , Spanish: [ˈsonja sotomaˈʝoɾ]; born June 25, 1954) is an American lawyer and jurist who serves as an associate justice of the Supreme Court of the United States. She was nominated by President Barack Obama on May 26, 2009, and has served since August 8, 2009. She is the third woman U.S. Supreme Court justice. Sotomayor was born in the Bronx, New York City, to Puerto Rican-born parents. Her father died when she was nine years old, and she was subsequently raised by her mother. She graduated with high honors from Princeton University in 1976 and received her Juris Doctor in 1979 from Yale Law School, where she was an editor of the Yale Law Journal. She worked as an assistant district attorney in New York for four and a half years before entering private practice in 1984."
+    },
+    "type": "person"
+  }
+}

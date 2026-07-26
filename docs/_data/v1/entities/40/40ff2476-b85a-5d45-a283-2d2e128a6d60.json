@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q11124",
+      "title": "WikiData Q-item: Q11124",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q11124"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "US Supreme Court justice from 1994 to 2022"
+    },
+    "descriptions": {
+      "en": "US Supreme Court justice from 1994 to 2022"
+    },
+    "domain": "general",
+    "id": "Q11124",
+    "labels": {
+      "en": "Stephen Breyer"
+    },
+    "properties": {
+      "birth_date": "1938-08-15T00:00:00Z",
+      "occupation": "lawyer"
+    },
+    "type": "person"
+  }
+}

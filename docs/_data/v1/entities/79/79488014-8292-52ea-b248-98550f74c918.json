@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-data-country.en",
+    "trust_tier": 5,
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q130008289",
+      "title": "WikiData Q-item: Q130008289",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q130008289"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1946 art exhibition at 135th Street Branch"
+    },
+    "descriptions": {
+      "en": "1946 art exhibition at 135th Street Branch"
+    },
+    "domain": "general",
+    "id": "Q130008289",
+    "labels": {
+      "en": "Water Colors, Gouache Paintings, and Ceramics by Eleonore Dubinbaum"
+    },
+    "properties": {
+      "end_time": "1946-09-30T00:00:00Z",
+      "start_time": "1946-09-16T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

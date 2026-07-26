@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T05:53:35.776882500+00:00",
+    "created_at": "2026-07-26T08:08:59.757617300+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T05:53:35.776882500+00:00",
+    "updated_at": "2026-07-26T08:08:59.757617300+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "president of the United States from 1861 to 1865 (1809-1865)"
+      "markdown": "Abraham Lincoln (February 12, 1809 – April 15, 1865) was the 16th president of the United States, serving from 1861 until his assassination in 1865. He led the United States through the American Civil War, defeating the Confederacy and playing a major role in the abolition of slavery. Born in a one-room log cabin in Kentucky, Lincoln was raised on the frontier. He was self-educated and became a lawyer, Illinois state legislator, and U.S. representative. Angered by the Kansas–Nebraska Act of 1854, which opened the territories to slavery, he became a leader of the new Republican Party. He reached a national audience in the 1858 Senate campaign debates against Stephen A. Douglas. Lincoln won the 1860 presidential election, becoming the first Republican president. His victory prompted a majority of the slave states to begin seceding and form the Confederate States."
     },
     "descriptions": {
       "en": "president of the United States from 1861 to 1865 (1809-1865)"
@@ -38,7 +38,8 @@
     "properties": {
       "birth_date": "1809-02-12T00:00:00Z",
       "death_date": "1865-04-15T00:00:00Z",
-      "occupation": "statesperson"
+      "occupation": "statesperson",
+      "summary": "Abraham Lincoln (February 12, 1809 – April 15, 1865) was the 16th president of the United States, serving from 1861 until his assassination in 1865. He led the United States through the American Civil War, defeating the Confederacy and playing a major role in the abolition of slavery. Born in a one-room log cabin in Kentucky, Lincoln was raised on the frontier. He was self-educated and became a lawyer, Illinois state legislator, and U.S. representative. Angered by the Kansas–Nebraska Act of 1854, which opened the territories to slavery, he became a leader of the new Republican Party. He reached a national audience in the 1858 Senate campaign debates against Stephen A. Douglas. Lincoln won the 1860 presidential election, becoming the first Republican president. His victory prompted a majority of the slave states to begin seceding and form the Confederate States."
     },
     "type": "person"
   }
