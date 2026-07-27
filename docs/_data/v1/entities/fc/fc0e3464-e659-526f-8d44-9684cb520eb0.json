@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:25:13.349132500+00:00",
+    "created_at": "2026-07-27T15:36:17.732487600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
+    "updated_at": "2026-07-27T15:36:17.732487600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Cornelis Janssens (born Cornelis Janssens van Ceulen, Dutch: [kɔrˈneːlɪ ˈɕɑnsəns fɑŋ ˈkøːlə(n)]; bapt. 14 October 1593 – bur. 5 August 1661) was an Anglo-Dutch painter of portraits. Born of Dutch or Flemish parents who fled to London from Antwerp to escape religious persecution, Cornelis Janssens van Ceulen probably trained in the northern Netherlands. Around 1618 he established himself as a portrait painter in London. His signed or monogrammed portraits number several hundred; he is the first English-born painter known to have made so many. He was active in England, from at least 1618 to 1643, when he moved to Middelburg in the Netherlands to escape the English Civil War. Between 1646 and 1652 he lived in Amsterdam, before settling in Utrecht, where he died. Janssens painted many portraits of emerging new English gentry. His early portraits were panel paintings with \"fictive\" oval frames."
+      "markdown": "Dutch-English painter (1593-1661)"
     },
     "descriptions": {
       "en": "Dutch-English painter (1593-1661)"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1593-10-24T00:00:00Z",
       "death_date": "1661-08-05T00:00:00Z",
-      "occupation": "painter",
-      "summary": "Cornelis Janssens (born Cornelis Janssens van Ceulen, Dutch: [kɔrˈneːlɪ ˈɕɑnsəns fɑŋ ˈkøːlə(n)]; bapt. 14 October 1593 – bur. 5 August 1661) was an Anglo-Dutch painter of portraits. Born of Dutch or Flemish parents who fled to London from Antwerp to escape religious persecution, Cornelis Janssens van Ceulen probably trained in the northern Netherlands. Around 1618 he established himself as a portrait painter in London. His signed or monogrammed portraits number several hundred; he is the first English-born painter known to have made so many. He was active in England, from at least 1618 to 1643, when he moved to Middelburg in the Netherlands to escape the English Civil War. Between 1646 and 1652 he lived in Amsterdam, before settling in Utrecht, where he died. Janssens painted many portraits of emerging new English gentry. His early portraits were panel paintings with \"fictive\" oval frames."
+      "occupation": "painter"
     },
     "type": "person"
   }

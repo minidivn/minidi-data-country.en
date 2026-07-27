@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:25:13.349132500+00:00",
+    "created_at": "2026-07-27T15:36:17.732487600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
+    "updated_at": "2026-07-27T15:36:17.732487600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Anne Halkett (née Murray) (c. 1623 – 1699), also known as Lady Halkett, was an English religious writer and autobiographer."
+      "markdown": "English religious writer and autobiographer"
     },
     "descriptions": {
       "en": "English religious writer and autobiographer"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1622-01-04T00:00:00Z",
       "death_date": "1699-04-22T00:00:00Z",
-      "occupation": "governess",
-      "summary": "Anne Halkett (née Murray) (c. 1623 – 1699), also known as Lady Halkett, was an English religious writer and autobiographer."
+      "occupation": "governess"
     },
     "type": "person"
   }

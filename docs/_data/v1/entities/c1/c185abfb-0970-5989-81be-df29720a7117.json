@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:25:13.349132500+00:00",
+    "created_at": "2026-07-27T15:36:17.732487600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
+    "updated_at": "2026-07-27T15:36:17.732487600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Edmund Tudor, 1st Earl of Richmond (c. 1430 – 3 November 1456), also known as Edmund of Hadham, was the father of King Henry VII of England and a member of the Tudor family of Penmynydd. Born to Sir Owen Tudor and the dowager queen Catherine of Valois, Edmund was the half-brother of Henry VI of England. He was raised for several years by Katherine de la Pole, and Henry took an interest in Edmund's upbringing, granting him a title and lands once he came of age. Both Edmund and his brother, Jasper, were made advisers to the King, as they were his closest remaining blood relatives. The brothers were made senior earls in the royal court and had influential positions in the Parliament of England. Edmund was also granted Baynard's Castle, London, and ran a successful estate."
+      "markdown": "father of Henry VII of England"
     },
     "descriptions": {
       "en": "father of Henry VII of England"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1430-01-01T00:00:00Z",
       "death_date": "1456-11-12T00:00:00Z",
-      "occupation": "aristocrat",
-      "summary": "Edmund Tudor, 1st Earl of Richmond (c. 1430 – 3 November 1456), also known as Edmund of Hadham, was the father of King Henry VII of England and a member of the Tudor family of Penmynydd. Born to Sir Owen Tudor and the dowager queen Catherine of Valois, Edmund was the half-brother of Henry VI of England. He was raised for several years by Katherine de la Pole, and Henry took an interest in Edmund's upbringing, granting him a title and lands once he came of age. Both Edmund and his brother, Jasper, were made advisers to the King, as they were his closest remaining blood relatives. The brothers were made senior earls in the royal court and had influential positions in the Parliament of England. Edmund was also granted Baynard's Castle, London, and ran a successful estate."
+      "occupation": "aristocrat"
     },
     "type": "person"
   }

@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:25:13.349132500+00:00",
+    "created_at": "2026-07-27T15:36:17.732487600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
+    "updated_at": "2026-07-27T15:36:17.732487600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Joseph Addison (1 May 1672 – 17 June 1719) was a British writer and politician. He was the eldest son of Lancelot Addison. His name is usually remembered alongside that of his long-standing friend Richard Steele, with whom he founded The Spectator magazine. His simple prose style marked the end of the mannerisms and conventional classical images of the 17th century. Addison is also famous for his play Cato, a Tragedy, written in 1712."
+      "markdown": "English essayist, poet, playwright and politician (1672–1719)"
     },
     "descriptions": {
       "en": "English essayist, poet, playwright and politician (1672–1719)"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1672-05-01T00:00:00Z",
       "death_date": "1719-06-17T00:00:00Z",
-      "occupation": "politician",
-      "summary": "Joseph Addison (1 May 1672 – 17 June 1719) was a British writer and politician. He was the eldest son of Lancelot Addison. His name is usually remembered alongside that of his long-standing friend Richard Steele, with whom he founded The Spectator magazine. His simple prose style marked the end of the mannerisms and conventional classical images of the 17th century. Addison is also famous for his play Cato, a Tragedy, written in 1712."
+      "occupation": "politician"
     },
     "type": "person"
   }

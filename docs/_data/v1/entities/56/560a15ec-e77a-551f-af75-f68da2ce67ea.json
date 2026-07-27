@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:25:13.349132500+00:00",
+    "created_at": "2026-07-27T15:36:17.732487600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
+    "updated_at": "2026-07-27T15:36:17.732487600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Michael Thomas Bass, DL (6 July 1799 – 29 April 1884) was an English brewer and a Member of Parliament. Under his leadership, the Bass Brewery became the largest brewery in the world, and Bass the best known brand of beer in England. Bass represented Derby in the House of Commons between 1848 and 1883, first as a Radical, and then as a member of the Liberal Party upon its founding in 1859, where he was an effective advocate for the brewing industry. He was a generous benefactor both in Derby, and in Burton-on-Trent where his company was based."
+      "markdown": "British politician (1799-1884)"
     },
     "descriptions": {
       "en": "British politician (1799-1884)"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1799-07-06T00:00:00Z",
       "death_date": "1884-04-29T00:00:00Z",
-      "occupation": "politician",
-      "summary": "Michael Thomas Bass, DL (6 July 1799 – 29 April 1884) was an English brewer and a Member of Parliament. Under his leadership, the Bass Brewery became the largest brewery in the world, and Bass the best known brand of beer in England. Bass represented Derby in the House of Commons between 1848 and 1883, first as a Radical, and then as a member of the Liberal Party upon its founding in 1859, where he was an effective advocate for the brewing industry. He was a generous benefactor both in Derby, and in Burton-on-Trent where his company was based."
+      "occupation": "politician"
     },
     "type": "person"
   }

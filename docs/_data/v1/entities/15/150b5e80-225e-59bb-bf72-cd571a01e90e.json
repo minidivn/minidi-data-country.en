@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:25:13.349132500+00:00",
+    "created_at": "2026-07-27T15:36:17.732487600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
+    "updated_at": "2026-07-27T15:36:17.732487600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "John Bainbridge (1582 – 3 November 1643) was an English astronomer and mathematician."
+      "markdown": "English astronomer"
     },
     "descriptions": {
       "en": "English astronomer"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1582-01-01T00:00:00Z",
       "death_date": "1643-11-03T00:00:00Z",
-      "occupation": "astronomer",
-      "summary": "John Bainbridge (1582 – 3 November 1643) was an English astronomer and mathematician."
+      "occupation": "astronomer"
     },
     "type": "person"
   }

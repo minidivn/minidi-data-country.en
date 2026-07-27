@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:25:13.349132500+00:00",
+    "created_at": "2026-07-27T15:36:17.732487600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
+    "updated_at": "2026-07-27T15:36:17.732487600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Walter Savage Landor (30 January 1775 – 17 September 1864) was an English writer, poet, and activist. His best known works were the prose Imaginary Conversations, and the poem \"Rose Aylmer,\" but the critical acclaim he received from contemporary poets and reviewers was not matched by public popularity. As remarkable as his work was, it was equalled by his rumbustious character and lively temperament. Both his writing and political activism, such as his support for Lajos Kossuth and Giuseppe Garibaldi, were imbued with his passion for liberal and republican causes. He befriended and influenced the next generation of literary reformers such as Charles Dickens and Robert Browning."
+      "markdown": "English writer, poet, and activist (1775–1864)"
     },
     "descriptions": {
       "en": "English writer, poet, and activist (1775–1864)"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1775-01-30T00:00:00Z",
       "death_date": "1864-09-17T00:00:00Z",
-      "occupation": "writer",
-      "summary": "Walter Savage Landor (30 January 1775 – 17 September 1864) was an English writer, poet, and activist. His best known works were the prose Imaginary Conversations, and the poem \"Rose Aylmer,\" but the critical acclaim he received from contemporary poets and reviewers was not matched by public popularity. As remarkable as his work was, it was equalled by his rumbustious character and lively temperament. Both his writing and political activism, such as his support for Lajos Kossuth and Giuseppe Garibaldi, were imbued with his passion for liberal and republican causes. He befriended and influenced the next generation of literary reformers such as Charles Dickens and Robert Browning."
+      "occupation": "writer"
     },
     "type": "person"
   }

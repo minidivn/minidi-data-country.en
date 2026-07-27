@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:25:13.349132500+00:00",
+    "created_at": "2026-07-27T15:36:17.732487600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
+    "updated_at": "2026-07-27T15:36:17.732487600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "William Stark (1740 or 1741–1770) was an English physician and medical pioneer who investigated scurvy by experimenting on himself with fatal consequences. He devised 24 restrictive diets, such as bread and water with a little sugar for thirty-one days, but died after only eight months whilst living exclusively on honey puddings and Cheshire cheese. Although he was experimenting with diet restriction, autopsy findings suggest that he died from  a phaeochromocytoma."
+      "markdown": "English physician and investigator of scurvy"
     },
     "descriptions": {
       "en": "English physician and investigator of scurvy"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1741-01-01T00:00:00Z",
       "death_date": "1770-02-23T00:00:00Z",
-      "occupation": "physician",
-      "summary": "William Stark (1740 or 1741–1770) was an English physician and medical pioneer who investigated scurvy by experimenting on himself with fatal consequences. He devised 24 restrictive diets, such as bread and water with a little sugar for thirty-one days, but died after only eight months whilst living exclusively on honey puddings and Cheshire cheese. Although he was experimenting with diet restriction, autopsy findings suggest that he died from  a phaeochromocytoma."
+      "occupation": "physician"
     },
     "type": "person"
   }

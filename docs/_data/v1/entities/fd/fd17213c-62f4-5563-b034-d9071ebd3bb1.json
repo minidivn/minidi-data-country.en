@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-26T21:25:13.349132500+00:00",
+    "created_at": "2026-07-27T15:36:17.732487600+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-data-country.en",
     "trust_tier": 5,
-    "updated_at": "2026-07-26T21:25:13.349132500+00:00",
+    "updated_at": "2026-07-27T15:36:17.732487600+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Sir John Fastolf (6 November 1380 – 5 November 1459) was a late medieval English soldier, landowner, and knight who fought in the Hundred Years' War from 1415 to 1439, latterly as a senior commander against Joan of Arc, among others. He has enjoyed a more lasting reputation as the prototype, in some part, of Shakespeare's character Sir John Falstaff, although their careers are very different. Many historians argue, however, that he deserves to be famous in his own right, not only as a soldier, but as a patron of literature, a writer on strategy and perhaps as an early industrialist."
+      "markdown": "English knight"
     },
     "descriptions": {
       "en": "English knight"
@@ -38,8 +38,7 @@
     "properties": {
       "birth_date": "1380-11-14T00:00:00Z",
       "death_date": "1459-11-05T00:00:00Z",
-      "occupation": "soldier",
-      "summary": "Sir John Fastolf (6 November 1380 – 5 November 1459) was a late medieval English soldier, landowner, and knight who fought in the Hundred Years' War from 1415 to 1439, latterly as a senior commander against Joan of Arc, among others. He has enjoyed a more lasting reputation as the prototype, in some part, of Shakespeare's character Sir John Falstaff, although their careers are very different. Many historians argue, however, that he deserves to be famous in his own right, not only as a soldier, but as a patron of literature, a writer on strategy and perhaps as an early industrialist."
+      "occupation": "soldier"
     },
     "type": "person"
   }
